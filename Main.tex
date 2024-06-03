@@ -1,0 +1,81 @@
+\documentclass[a4paper,oneside,11pt]{book}
+
+\usepackage{NWUStyle}
+\usepackage{bibentry}
+%================================================================================
+
+\begin{document}
+
+\Title{The viability of post-graduate students developing a commercial ERP system of industry standards: A South African Case Study}
+\Initials{J. F.}
+\FirstName{Franco}
+\Surname{Du Plessis}
+\StudentNumber{33642958}
+\ORCID{placeholder}
+\MScorPhD{Magister Scientiae} 
+\Field{Computer Science} 
+\GradDate{2025}
+\Supervisor{Prof. C. J. Kruger}
+\CoSupervisor{} 
+\AssistantSupervisor{} 
+%---------------------------------------------
+
+\MakeTitle 
+
+%-------------------EDIT----------------------
+%Type your acknowledgements:
+\begin{Acknowledgements}{}
+			I would like to thank the everyone for helping me. You're all great!
+\end{Acknowledgements}
+%---------------------------------------------
+
+%-------------------EDIT----------------------
+%Type your abstract:
+\begin{Abstract}{}
+			This is the abstract. It is a summary of all the work.
+			%Provide all of your keywords here (separated by semi-colons. This will appear below the abstract.
+			\KeyWords{Keyword 1; Keyword 2; Keyword 3.}
+\end{Abstract}
+%---------------------------------------------
+
+\MakeTOCandLOFandLOT %This command creates the table of contents, list of figures and list of tables.
+
+%-------------------EDIT----------------------
+%[OPTIONAL] Type your table of abbreviations. Delete this if you do not intend to use it.
+\begin{TableOfAbbrev}
+			A table containing a list of abbreviations that will be used throughout text.
+			\begin{table}[!htpb!]%
+			\begin{tabular}{ll}
+			\textbf{ERP} & Enterprise Resource Planning\\
+                \textbf{CRM} & Customer Relationship Management\\
+                \textbf{DSR} & Design Science Research\\
+                \textbf{IS} & Information Science\\
+                \textbf{CR} & Critical Realism\\
+			\end{tabular}
+			\end{table}
+\end{TableOfAbbrev}
+%---------------------------------------------
+
+\pagestyle{headings}
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+%================================================================================
+%BEGIN TYPING YOUR DOCUMENT - STARTING HERE.-------------------------------------
+%================================================================================
+\input{Chapters/1Introduction} 
+\input{Chapters/2Research_Design}
+\input{Chapters/3Literatrure_Study}
+\input{Chapters/4Case_Study}
+\input{Chapters/5Expert_Reviewer}
+\input{Chapters/6Results and Discussion}
+\input{Chapters/7Conclusion}/
+
+%Create the bibliography:
+\bibliography{MyBib}
+
+% \appendix			
+% \input{ExampleAppendix} %Include the contents of the file "ExampleAppendix.tex"
+
+\end{document}
+
