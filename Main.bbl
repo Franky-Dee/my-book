@@ -1,5 +1,10 @@
 \begin{thebibliography}{}
 
+\bibitem[Aken, 2004]{aken2004management}
+Aken, J. E.~v. (2004).
+\newblock Management research based on the paradigm of the design sciences: the quest for field-tested and grounded technological rules.
+\newblock {\em Journal of management studies}, 41(2):219--246.
+
 \bibitem[Alharahsheh and Pius, 2020]{alharahsheh2020review}
 Alharahsheh, H.~H. and Pius, A. (2020).
 \newblock A review of key paradigms: Positivism vs interpretivism.
@@ -20,6 +25,11 @@ Azungah, T. (2018).
 \newblock Qualitative research: deductive and inductive approaches to data analysis.
 \newblock {\em Qualitative research journal}, 18(4):383--400.
 
+\bibitem[Bab{\"u}roglu and Ravn, 1992]{baburoglu1992normative}
+Bab{\"u}roglu, O.~N. and Ravn, I. (1992).
+\newblock Normative action research.
+\newblock {\em Organization Studies}, 13(1):019--34.
+
 \bibitem[Baig et~al., 2018]{baig2018bridging}
 Baig, M.~Z., Haq, M. U.~U., Surkhail, H. M.~U., Iqbal, R., and Sheikh, M.~M. (2018).
 \newblock Bridging the industry-academia collaboration gap a focus towards final year projects.
@@ -39,6 +49,11 @@ Barnett, D.~R. (2011).
 Barwise, J. and Etchemendy, J. (1998).
 \newblock {\em Computers, visualization, and the nature of reasoning}.
 \newblock na.
+
+\bibitem[Baskerville and Wood-Harper, 1998]{baskerville1998diversity}
+Baskerville, R. and Wood-Harper, A.~T. (1998).
+\newblock Diversity in information systems action research methods.
+\newblock {\em European Journal of information systems}, 7:90--107.
 
 \bibitem[Bhaskar, 2013]{bhaskar2013realist}
 Bhaskar, R. (2013).
@@ -69,6 +84,11 @@ Charniak, E. (1985).
 Cormen, T.~H., Leiserson, C.~E., Rivest, R.~L., and Stein, C. (2022).
 \newblock {\em Introduction to algorithms}.
 \newblock MIT press.
+
+\bibitem[Davison et~al., 2004]{davison2004principles}
+Davison, R., Martinsons, M.~G., and Kock, N. (2004).
+\newblock Principles of canonical action research.
+\newblock {\em Information systems journal}, 14(1):65--86.
 
 \bibitem[Dewey, 2022]{dewey2022we}
 Dewey, J. (2022).
@@ -168,6 +188,11 @@ Manber, U. (1989).
 \newblock {\em Introduction to algorithms: a creative approach}.
 \newblock Addison-Wesley Longman Publishing Co., Inc.
 
+\bibitem[March and Smith, 1995]{march1995design}
+March, S.~T. and Smith, G.~F. (1995).
+\newblock Design and natural science research on information technology.
+\newblock {\em Decision support systems}, 15(4):251--266.
+
 \bibitem[Mardiana, 2020]{mardiana2020modifying}
 Mardiana, S. (2020).
 \newblock Modifying research onion for information systems research.
@@ -218,6 +243,11 @@ Potrac, P., Jones, R.~L., and Nelson, L. (2014).
 \newblock Interpretivism.
 \newblock In {\em Research methods in sports coaching}, pages 31--41. Routledge.
 
+\bibitem[Pries-Heje et~al., 2007]{pries2007soft}
+Pries-Heje, J., Baskerville, R., and Venable, J. (2007).
+\newblock Soft design science research: Extending the boundaries of evaluation in design science research.
+\newblock In {\em Proceedings from the 2nd International Conference on Design Science Research in IT (DESRIST)}, pages 18--38.
+
 \bibitem[Reggia et~al., 1983]{reggia1983diagnostic}
 Reggia, J.~A., Nau, D.~S., and Wang, P.~Y. (1983).
 \newblock Diagnostic expert systems based on a set covering model.
@@ -248,9 +278,24 @@ Sayer, R.~A. (1992).
 \newblock {\em Method in social science: A realist approach}.
 \newblock Psychology Press.
 
+\bibitem[Sein et~al., 2011]{sein2011action}
+Sein, M.~K., Henfridsson, O., Purao, S., Rossi, M., and Lindgren, R. (2011).
+\newblock Action design research.
+\newblock {\em MIS quarterly}, pages 37--56.
+
 \bibitem[Smyth, 1999]{smyth1999peirce}
 Smyth, R. (1999).
 \newblock Peirce, pragmatism and the logic of scripture.
+
+\bibitem[Susman, 1983]{susman1983action}
+Susman, G.~I. (1983).
+\newblock Action research: a sociotechnical systems perspective.
+\newblock {\em Beyond method: Strategies for social research}, 95(113):95.
+
+\bibitem[Susman and Evered, 2023]{susman2023assessment}
+Susman, G.~I. and Evered, R.~D. (2023).
+\newblock An assessment of the scientific merits of action research.
+\newblock {\em STUDI ORGANIZZATIVI}, (2022/2).
 
 \bibitem[U{\c{c}}akt{\"u}rk and Villard, 2013]{uccakturk2013effects}
 U{\c{c}}akt{\"u}rk, A. and Villard, M. (2013).

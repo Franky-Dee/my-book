@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.2)  3 JUN 2024 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.2)  3 JUN 2024 13:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -414,6 +414,9 @@ LaTeX Warning: Label `fig:enter-label' multiply defined.
 
 LaTeX Warning: Label `fig:enter-label' multiply defined.
 
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
 )
 \openout1 = `Main.aux'.
 
@@ -654,39 +657,47 @@ Package pdftex.def Info: img/comparison of research philosophies.png  used on in
 <img/Design science research process (DSRP) model.png, id=114, 866.23625pt x 459.7175pt>
 File: img/Design science research process (DSRP) model.png Graphic file (type png)
 <use img/Design science research process (DSRP) model.png>
-Package pdftex.def Info: img/Design science research process (DSRP) model.png  used on input line 133.
+Package pdftex.def Info: img/Design science research process (DSRP) model.png  used on input line 130.
 (pdftex.def)             Requested size: 426.79135pt x 226.49812pt.
  [20
 
- <./img/Design science research process (DSRP) model.png>]) (./Chapters/3Literatrure_Study.tex [21]
+ <./img/Design science research process (DSRP) model.png>] [21] [22]
+<img/ADR stages and principles.png, id=126, 789.95125pt x 735.74875pt>
+File: img/ADR stages and principles.png Graphic file (type png)
+<use img/ADR stages and principles.png>
+Package pdftex.def Info: img/ADR stages and principles.png  used on input line 159.
+(pdftex.def)             Requested size: 426.79135pt x 397.5117pt.
+ [23
+
+ <./img/ADR stages and principles.png>] [24]) (./Chapters/3Literatrure_Study.tex [25] [26]
 Chapter 3.
-) (./Chapters/4Case_Study.tex [22
+) (./Chapters/4Case_Study.tex [27
 
 ]
 Overfull \vbox (482.52205pt too high) has occurred while \output is active []
 
- [23]
+ [28]
 Chapter 4.
-) (./Chapters/5Expert_Reviewer.tex [24
+) (./Chapters/5Expert_Reviewer.tex [29
 
 ]
 Overfull \vbox (211.13454pt too high) has occurred while \output is active []
 
- [25]
+ [30]
 Chapter 5.
-) (./Chapters/6Results and Discussion.tex [26
+) (./Chapters/6Results and Discussion.tex [31
 
 ]
 Chapter 6.
-) (./Chapters/7Conclusion.tex [27
+) (./Chapters/7Conclusion.tex [32
 
 ]
 Chapter 7.
-) (./Main.bbl [28
+) (./Main.bbl [33
 
-] [29
+] [34
 
-] [30] [31]) [32] (./Main.aux)
+] [35] [36] [37]) [38] (./Main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
@@ -697,18 +708,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15858 strings out of 473993
- 312703 string characters out of 5741041
+ 15901 strings out of 473993
+ 313877 string characters out of 5741041
  1953904 words of memory out of 5000000
- 38009 multiletter control sequences out of 15000+600000
+ 38052 multiletter control sequences out of 15000+600000
  578378 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,16n,107p,1533b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,16n,107p,1674b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Main.pdf (42 pages, 818417 bytes).
+Output written on Main.pdf (48 pages, 887867 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
+ 222 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
