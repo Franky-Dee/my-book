@@ -25,15 +25,30 @@ Baig, M.~Z., Haq, M. U.~U., Surkhail, H. M.~U., Iqbal, R., and Sheikh, M.~M. (20
 \newblock Bridging the industry-academia collaboration gap a focus towards final year projects.
 \newblock In {\em Proceedings of the 2nd International Conference on High Performance Compilation, Computing and Communications}, pages 40--44.
 
+\bibitem[Baker, 1995]{baker1995characterizing}
+Baker, J.~D. (1995).
+\newblock {\em Characterizing students' difficulty with proof by mathematical induction}.
+\newblock Indiana University.
+
 \bibitem[Barnett, 2011]{barnett2011partnering}
 Barnett, D.~R. (2011).
 \newblock Partnering industry and education for curricular enhancement: A response for greater educational achievement.
 \newblock {\em Online Journal for Workforce Education and Development}, 5(2):5.
 
+\bibitem[Barwise and Etchemendy, 1998]{barwise1998computers}
+Barwise, J. and Etchemendy, J. (1998).
+\newblock {\em Computers, visualization, and the nature of reasoning}.
+\newblock na.
+
 \bibitem[Bhaskar, 2013]{bhaskar2013realist}
 Bhaskar, R. (2013).
 \newblock {\em A realist theory of science}.
 \newblock Routledge.
+
+\bibitem[Bruce et~al., 2003]{bruce2003math}
+Bruce, K.~B., Drysdale, R. L.~S., Kelemen, C., and Tucker, A. (2003).
+\newblock Why math?
+\newblock {\em Communications of the ACM}, 46(9):40--44.
 
 \bibitem[Buchanan, 1992]{buchanan1992wicked}
 Buchanan, R. (1992).
@@ -45,10 +60,25 @@ Carlsson, S.~A. (2003).
 \newblock Critical realism: a way forward in is research.
 \newblock In {\em ECIS}, pages 348--362.
 
+\bibitem[Charniak, 1985]{charniak1985introduction}
+Charniak, E. (1985).
+\newblock {\em Introduction to artificial intelligence}.
+\newblock Pearson Education India.
+
+\bibitem[Cormen et~al., 2022]{cormen2022introduction}
+Cormen, T.~H., Leiserson, C.~E., Rivest, R.~L., and Stein, C. (2022).
+\newblock {\em Introduction to algorithms}.
+\newblock MIT press.
+
 \bibitem[Dewey, 2022]{dewey2022we}
 Dewey, J. (2022).
 \newblock {\em How we think}.
 \newblock DigiCat.
+
+\bibitem[Dubinsky, 1989]{dubinsky1989teaching}
+Dubinsky, E. (1989).
+\newblock Teaching mathematical induction ii.
+\newblock {\em Journal of Mathematical Behavior}, 8(3):285--304.
 
 \bibitem[Easton, 2010]{easton2010critical}
 Easton, G. (2010).
@@ -85,29 +115,73 @@ Hevner, A.~R., March, S.~T., Park, J., and Ram, S. (2004).
 \newblock Design science in information systems research.
 \newblock {\em MIS quarterly}, pages 75--105.
 
+\bibitem[Hobbs et~al., 1993]{hobbs1993interpretation}
+Hobbs, J.~R., Stickel, M.~E., Appelt, D.~E., and Martin, P. (1993).
+\newblock Interpretation as abduction.
+\newblock {\em Artificial intelligence}, 63(1-2):69--142.
+
+\bibitem[Hopcroft et~al., 2001]{hopcroft2001introduction}
+Hopcroft, J.~E., Motwani, R., and Ullman, J.~D. (2001).
+\newblock Introduction to automata theory, languages, and computation.
+\newblock {\em Acm Sigact News}, 32(1):60--65.
+
 \bibitem[James, 2020]{james2020pragmatism}
 James, W. (2020).
 \newblock Pragmatism.
 \newblock In {\em Pragmatism}, pages 53--75. Routledge.
+
+\bibitem[Josephson et~al., 1987]{josephson1987mechanism}
+Josephson, J.~R., Chandrasekaran, B., Smith, J.~W., and Tanner, M.~C. (1987).
+\newblock A mechanism for forming composite explanatory hypotheses.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics}, 17(3):445--454.
 
 \bibitem[Knuth, 1968]{knuth1968semantics}
 Knuth, D.~E. (1968).
 \newblock Semantics of context-free languages.
 \newblock {\em Mathematical systems theory}, 2(2):127--145.
 
+\bibitem[Lewis and Mack, 1982]{lewis1982role}
+Lewis, C. and Mack, R. (1982).
+\newblock The role of abduction in learning to use a computer system.
+
 \bibitem[Littlejohn and Foss, 2009]{littlejohn2009encyclopedia}
 Littlejohn, S.~W. and Foss, K.~A. (2009).
 \newblock {\em Encyclopedia of communication theory}, volume~1.
 \newblock Sage.
 
+\bibitem[Lowenthal and Eisenberg, 1992]{lowenthal1992mathematical}
+Lowenthal, F. and Eisenberg, T. (1992).
+\newblock Mathematical induction in school: An illusion of rigor?
+\newblock {\em School Science and mathematics}, 92(5):233--238.
+
 \bibitem[Luczak-R{\"o}sch, 2013]{luczak2013beyond}
 Luczak-R{\"o}sch, M. (2013).
 \newblock Beyond positivism in computer science.
+
+\bibitem[Lynch, 1996]{lynch1996distributed}
+Lynch, N.~A. (1996).
+\newblock {\em Distributed algorithms}.
+\newblock Elsevier.
+
+\bibitem[Manber, 1989]{manber1989introduction}
+Manber, U. (1989).
+\newblock {\em Introduction to algorithms: a creative approach}.
+\newblock Addison-Wesley Longman Publishing Co., Inc.
 
 \bibitem[Mardiana, 2020]{mardiana2020modifying}
 Mardiana, S. (2020).
 \newblock Modifying research onion for information systems research.
 \newblock {\em Solid State Technology}, 63(4):5304--5313.
+
+\bibitem[Movshovitz-Hadar, 1993]{movshovitz1993mathematical}
+Movshovitz-Hadar, N. (1993).
+\newblock Mathematical induction: A focus on the conceptual framework.
+\newblock {\em School Science and Mathematics}, 93:408--408.
+
+\bibitem[Page, 2003]{page2003software}
+Page, R.~L. (2003).
+\newblock Software is discrete mathematics.
+\newblock {\em ACM SIGPLAN Notices}, 38(9):79--86.
 
 \bibitem[Park et~al., 2020]{park2020positivism}
 Park, Y.~S., Konge, L., and Artino~Jr, A.~R. (2020).
@@ -124,10 +198,30 @@ Peffers, K., Tuunanen, T., Rothenberger, M.~A., and Chatterjee, S. (2007).
 \newblock A design science research methodology for information systems research.
 \newblock {\em Journal of management information systems}, 24(3):45--77.
 
+\bibitem[Pierce, 2002]{pierce2002types}
+Pierce, B.~C. (2002).
+\newblock {\em Types and programming languages}.
+\newblock MIT press.
+
+\bibitem[Polycarpou et~al., 2008]{polycarpou2008conceptual}
+Polycarpou, I., Pasztor, A., and Adjouadi, M. (2008).
+\newblock A conceptual approach to teaching induction for computer science.
+\newblock In {\em Proceedings of the 39th SIGCSE technical symposium on Computer science education}, pages 9--13.
+
+\bibitem[Pople, 1973]{pople1973mechanization}
+Pople, H.~E. (1973).
+\newblock On the mechanization of abductive logic.
+\newblock In {\em IJCAI}, volume~73, pages 147--152. Citeseer.
+
 \bibitem[Potrac et~al., 2014]{potrac2014interpretivism}
 Potrac, P., Jones, R.~L., and Nelson, L. (2014).
 \newblock Interpretivism.
 \newblock In {\em Research methods in sports coaching}, pages 31--41. Routledge.
+
+\bibitem[Reggia et~al., 1983]{reggia1983diagnostic}
+Reggia, J.~A., Nau, D.~S., and Wang, P.~Y. (1983).
+\newblock Diagnostic expert systems based on a set covering model.
+\newblock {\em International journal of man-machine studies}, 19(5):437--460.
 
 \bibitem[Rittel and Webber, 1973]{rittel1973dilemmas}
 Rittel, H.~W. and Webber, M.~M. (1973).
@@ -168,9 +262,19 @@ Walls, J.~G., Widmeyer, G.~R., and El~Sawy, O.~A. (1992).
 \newblock Building an information system design theory for vigilant eis.
 \newblock {\em Information systems research}, 3(1):36--59.
 
+\bibitem[Weiss, 1998]{weiss1998data}
+Weiss, M.~A. (1998).
+\newblock Data structures and problem solving using java.
+\newblock {\em ACM SIGACT News}, 29(2):42--49.
+
 \bibitem[Wikgren, 2005]{wikgren2005critical}
 Wikgren, M. (2005).
 \newblock Critical realism as a philosophy and social theory in information science?
 \newblock {\em Journal of documentation}, 61(1):11--22.
+
+\bibitem[Wu et~al., 1998]{wu1998conceptual}
+Wu, C.-C., Dale, N.~B., and Bethel, L.~J. (1998).
+\newblock Conceptual models and cognitive learning styles in teaching recursion.
+\newblock In {\em Proceedings of the twenty-ninth SIGCSE technical symposium on Computer science education}, pages 292--296.
 
 \end{thebibliography}
