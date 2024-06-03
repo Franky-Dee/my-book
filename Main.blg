@@ -6,45 +6,45 @@ Database file #1: MyBib.bib
 Warning--empty journal in lewis1982role
 Warning--empty journal in luczak2013beyond
 Warning--there's a number but no volume in susman2023assessment
-You've used 65 entries,
+You've used 66 entries,
             1935 wiz_defined-function locations,
-            845 strings with 13138 characters,
-and the built_in function-call counts, 24816 in all, are:
-= -- 2481
-> -- 813
+            850 strings with 13254 characters,
+and the built_in function-call counts, 25258 in all, are:
+= -- 2524
+> -- 836
 < -- 59
-+ -- 280
-- -- 260
-* -- 1987
-:= -- 4241
-add.period$ -- 195
-call.type$ -- 65
-change.case$ -- 442
-chr.to.int$ -- 65
-cite$ -- 68
-duplicate$ -- 1033
-empty$ -- 1859
-format.name$ -- 349
-if$ -- 4928
++ -- 288
+- -- 268
+* -- 2030
+:= -- 4319
+add.period$ -- 198
+call.type$ -- 66
+change.case$ -- 451
+chr.to.int$ -- 66
+cite$ -- 69
+duplicate$ -- 1047
+empty$ -- 1887
+format.name$ -- 358
+if$ -- 5011
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 77
-newline$ -- 325
-num.names$ -- 195
-pop$ -- 420
+missing$ -- 78
+newline$ -- 330
+num.names$ -- 198
+pop$ -- 427
 preamble$ -- 1
-purify$ -- 455
+purify$ -- 464
 quote$ -- 0
-skip$ -- 787
+skip$ -- 797
 stack$ -- 0
-substring$ -- 1831
-swap$ -- 155
+substring$ -- 1862
+swap$ -- 156
 text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 364
+type$ -- 370
 warning$ -- 3
-while$ -- 233
+while$ -- 237
 width$ -- 0
-write$ -- 829
+write$ -- 842
 (There were 3 warnings)
