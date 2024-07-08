@@ -34,11 +34,13 @@
 \contentsline {section}{\numberline {3.1}ERP Systems}{29}{}%
 \contentsline {subsection}{\numberline {3.1.1}Features of ERP Systems}{30}{}%
 \contentsline {subsection}{\numberline {3.1.2}Competition within the ERP System Industry}{30}{}%
-\contentsline {subsection}{\numberline {3.1.3}Industry Requirements for an ERP System}{30}{}%
+\contentsline {subsection}{\numberline {3.1.3}Components of an Industry Approved Software System}{30}{}%
+\contentsline {subsection}{\numberline {3.1.4}Components of an Industry Approved ERP System}{30}{}%
 \contentsline {section}{\numberline {3.2}The Information Technology Industry}{30}{}%
-\contentsline {subsection}{\numberline {3.2.1}Threats and Opportunities}{30}{}%
+\contentsline {subsection}{\numberline {3.2.1}Challenges within the Information Technology Industry}{30}{}%
+\contentsline {subsection}{\numberline {3.2.2}Challenges Exclusive to Developing Nations}{30}{}%
 \contentsline {subsubsection}{The Purpose of a University}{30}{}%
-\contentsline {subsection}{\numberline {3.2.2}Developing Nations vs. The Rest of the World}{30}{}%
+\contentsline {subsection}{\numberline {3.2.3}Developing Nations vs. The Rest of the World}{30}{}%
 \contentsline {section}{\numberline {3.3}The Value Chain}{30}{}%
 \contentsline {subsection}{\numberline {3.3.1}People}{30}{}%
 \contentsline {subsection}{\numberline {3.3.2}Processes}{30}{}%
@@ -60,7 +62,8 @@
 \contentsline {subsection}{\numberline {3.6.1}Software Development Management Methodologies}{30}{}%
 \contentsline {subsection}{\numberline {3.6.2}Recommendations}{30}{}%
 \contentsline {section}{\numberline {3.7}Implementation Frameworks}{30}{}%
-\contentsline {subsection}{\numberline {3.7.1}Recommendation}{30}{}%
+\contentsline {subsection}{\numberline {3.7.1}Critical Competencies for Software Development}{30}{}%
+\contentsline {subsection}{\numberline {3.7.2}Recommendation}{30}{}%
 \contentsline {section}{\numberline {3.8}Artefact}{30}{}%
 \contentsline {subsection}{\numberline {3.8.1}Methods for Measuring Artefact Success}{30}{}%
 \contentsline {subsection}{\numberline {3.8.2}Methods for Measuring Artefact Functionality}{30}{}%
