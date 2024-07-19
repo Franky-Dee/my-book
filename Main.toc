@@ -60,34 +60,41 @@
 \contentsline {section}{\numberline {3.6}Project Management Methodologies}{31}{}%
 \contentsline {subsection}{\numberline {3.6.1}Software Development Management Methodologies}{31}{}%
 \contentsline {subsection}{\numberline {3.6.2}Recommendations}{31}{}%
-\contentsline {section}{\numberline {3.7}Implementation Frameworks}{31}{}%
-\contentsline {subsection}{\numberline {3.7.1}Critical Competencies for Software Development}{31}{}%
-\contentsline {subsection}{\numberline {3.7.2}Recommendation}{31}{}%
-\contentsline {section}{\numberline {3.8}Artefact}{31}{}%
-\contentsline {subsection}{\numberline {3.8.1}Methods for Measuring Artefact Success}{31}{}%
-\contentsline {subsection}{\numberline {3.8.2}Methods for Measuring Artefact Functionality}{31}{}%
-\contentsline {subsection}{\numberline {3.8.3}TAM Model}{31}{}%
-\contentsline {chapter}{\numberline {4}Case Study}{32}{}%
-\contentsline {section}{\numberline {4.1}University}{33}{}%
-\contentsline {subsection}{\numberline {4.1.1}Academic Deliverables}{33}{}%
-\contentsline {section}{\numberline {4.2}Industry}{33}{}%
-\contentsline {section}{\numberline {4.3}Implementation of Project Management Methodology}{33}{}%
-\contentsline {section}{\numberline {4.4}Student Team and Roles}{33}{}%
-\contentsline {section}{\numberline {4.5}Project Design}{33}{}%
-\contentsline {subsection}{\numberline {4.5.1}Requirements Gathering}{33}{}%
-\contentsline {subsubsection}{Internal Questioning}{33}{}%
-\contentsline {subsubsection}{Abstract Requirements Summary}{33}{}%
-\contentsline {subsubsection}{Functional Requirements Summary}{33}{}%
-\contentsline {subsubsection}{Feature Comparison}{33}{}%
-\contentsline {subsection}{\numberline {4.5.2}System Requirements Definition}{33}{}%
-\contentsline {subsubsection}{Year 1 Prototype}{33}{}%
-\contentsline {subsubsection}{Year 2 Client Configuration}{33}{}%
-\contentsline {section}{\numberline {4.6}Project Pipeline and Process}{33}{}%
-\contentsline {subsection}{\numberline {4.6.1}Project Milestones}{33}{}%
-\contentsline {subsection}{\numberline {4.6.2}Project Plan}{33}{}%
-\contentsline {subsubsection}{Year 1}{33}{}%
-\contentsline {subsubsection}{Year 2}{33}{}%
-\contentsline {chapter}{\numberline {5}Expert Reviewer}{34}{}%
-\contentsline {chapter}{\numberline {6}Results and Discussion}{35}{}%
-\contentsline {section}{\numberline {6.1}Recommendations}{35}{}%
-\contentsline {chapter}{\numberline {7}Conclusion}{36}{}%
+\contentsline {section}{\numberline {3.7}Implementation of ERP Systems}{31}{}%
+\contentsline {subsubsection}{Business Process Research and Requirements Gathering}{32}{}%
+\contentsline {subsubsection}{Software Installation}{32}{}%
+\contentsline {subsubsection}{Data Migration}{32}{}%
+\contentsline {subsubsection}{Testing}{33}{}%
+\contentsline {subsubsection}{User Training}{33}{}%
+\contentsline {subsubsection}{Final Deployment}{33}{}%
+\contentsline {subsubsection}{Support}{33}{}%
+\contentsline {subsection}{\numberline {3.7.1}ERP Implementation Time}{34}{}%
+\contentsline {subsection}{\numberline {3.7.2}Critical Competencies for Software Development}{34}{}%
+\contentsline {section}{\numberline {3.8}Artefact}{34}{}%
+\contentsline {subsection}{\numberline {3.8.1}Methods for Measuring Artefact Success}{34}{}%
+\contentsline {subsection}{\numberline {3.8.2}Methods for Measuring Artefact Functionality}{34}{}%
+\contentsline {subsection}{\numberline {3.8.3}TAM Model}{34}{}%
+\contentsline {chapter}{\numberline {4}Case Study}{35}{}%
+\contentsline {section}{\numberline {4.1}University}{36}{}%
+\contentsline {subsection}{\numberline {4.1.1}Academic Deliverables}{36}{}%
+\contentsline {section}{\numberline {4.2}Industry}{36}{}%
+\contentsline {section}{\numberline {4.3}Implementation of Project Management Methodology}{36}{}%
+\contentsline {section}{\numberline {4.4}Student Team and Roles}{36}{}%
+\contentsline {section}{\numberline {4.5}Project Design}{36}{}%
+\contentsline {subsection}{\numberline {4.5.1}Requirements Gathering}{36}{}%
+\contentsline {subsubsection}{Internal Questioning}{36}{}%
+\contentsline {subsubsection}{Abstract Requirements Summary}{36}{}%
+\contentsline {subsubsection}{Functional Requirements Summary}{36}{}%
+\contentsline {subsubsection}{Feature Comparison}{36}{}%
+\contentsline {subsection}{\numberline {4.5.2}System Requirements Definition}{36}{}%
+\contentsline {subsubsection}{Year 1 Prototype}{36}{}%
+\contentsline {subsubsection}{Year 2 Client Configuration}{36}{}%
+\contentsline {section}{\numberline {4.6}Project Pipeline and Process}{36}{}%
+\contentsline {subsection}{\numberline {4.6.1}Project Milestones}{36}{}%
+\contentsline {subsection}{\numberline {4.6.2}Project Plan}{36}{}%
+\contentsline {subsubsection}{Year 1}{36}{}%
+\contentsline {subsubsection}{Year 2}{36}{}%
+\contentsline {chapter}{\numberline {5}Expert Reviewer}{37}{}%
+\contentsline {chapter}{\numberline {6}Results and Discussion}{38}{}%
+\contentsline {section}{\numberline {6.1}Recommendations}{38}{}%
+\contentsline {chapter}{\numberline {7}Conclusion}{39}{}%

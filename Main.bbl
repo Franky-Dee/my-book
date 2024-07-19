@@ -80,6 +80,10 @@ Carlsson, S.~A. (2003).
 \newblock Critical realism: a way forward in is research.
 \newblock In {\em ECIS}, pages 348--362.
 
+\bibitem[Chang et~al., 2000]{chang2000delphi}
+Chang, S.-I., Gable, G., Smythe, E., and Timbrell, G. (2000).
+\newblock A delphi examination of public sector erp implementation issues.
+
 \bibitem[Charniak, 1985]{charniak1985introduction}
 Charniak, E. (1985).
 \newblock {\em Introduction to artificial intelligence}.
@@ -150,6 +154,11 @@ Hopcroft, J.~E., Motwani, R., and Ullman, J.~D. (2001).
 \newblock Introduction to automata theory, languages, and computation.
 \newblock {\em Acm Sigact News}, 32(1):60--65.
 
+\bibitem[Jacobs et~al., 2007]{jacobs2007enterprise}
+Jacobs, F.~R. et~al. (2007).
+\newblock Enterprise resource planning (erp)—a brief history.
+\newblock {\em Journal of operations management}, 25(2):357--363.
+
 \bibitem[James, 2020]{james2020pragmatism}
 James, W. (2020).
 \newblock Pragmatism.
@@ -159,6 +168,11 @@ James, W. (2020).
 Josephson, J.~R., Chandrasekaran, B., Smith, J.~W., and Tanner, M.~C. (1987).
 \newblock A mechanism for forming composite explanatory hypotheses.
 \newblock {\em IEEE Transactions on Systems, Man, and Cybernetics}, 17(3):445--454.
+
+\bibitem[Kenge and Khan, 2020]{kenge2020research}
+Kenge, R. and Khan, Z. (2020).
+\newblock A research study on the erp system implementation and current trends in erp.
+\newblock {\em Shanlax International Journal of Management}, 8(2):34--39.
 
 \bibitem[Knuth, 1968]{knuth1968semantics}
 Knuth, D.~E. (1968).
@@ -182,6 +196,10 @@ Lowenthal, F. and Eisenberg, T. (1992).
 \bibitem[Luczak-R{\"o}sch, 2013]{luczak2013beyond}
 Luczak-R{\"o}sch, M. (2013).
 \newblock Beyond positivism in computer science.
+
+\bibitem[Ly, 2020]{ly2020definitive}
+Ly, A. (2020).
+\newblock The definitive guide to erp implementation.
 
 \bibitem[Lynch, 1996]{lynch1996distributed}
 Lynch, N.~A. (1996).
@@ -232,6 +250,11 @@ Peffers, K., Tuunanen, T., Rothenberger, M.~A., and Chatterjee, S. (2007).
 \newblock A design science research methodology for information systems research.
 \newblock {\em Journal of management information systems}, 24(3):45--77.
 
+\bibitem[Pelphrey, 2015]{pelphrey2015directing}
+Pelphrey, M.~W. (2015).
+\newblock {\em Directing the ERP implementation: A best practice guide to avoiding program failure traps while tuning system performance}.
+\newblock CRC Press.
+
 \bibitem[Pierce, 2002]{pierce2002types}
 Pierce, B.~C. (2002).
 \newblock {\em Types and programming languages}.
@@ -272,6 +295,11 @@ Ryan, G. (2018).
 \newblock Introduction to positivism, interpretivism and critical theory.
 \newblock {\em Nurse researcher}, 25(4):41--49.
 
+\bibitem[Sankar and Rau, 2006]{sankar2006implementation}
+Sankar, C. and Rau, K.-H. (2006).
+\newblock {\em Implementation Strategies for SAP R/3 in a Multinational Organization: Lessons from a Real-World Case Study: Lessons from a Real-World Case Study}.
+\newblock IGI Global.
+
 \bibitem[Saunders et~al., 2003]{saunders2003research}
 Saunders, M., Lewis, P., and Thornhill, A. (2003).
 \newblock Research methods forbusiness students.
@@ -291,6 +319,11 @@ Sayer, R.~A. (1992).
 Sein, M.~K., Henfridsson, O., Purao, S., Rossi, M., and Lindgren, R. (2011).
 \newblock Action design research.
 \newblock {\em MIS quarterly}, pages 37--56.
+
+\bibitem[Shields, 2004]{shields2004business}
+Shields, M.~G. (2004).
+\newblock {\em E-business and ERP: Rapid implementation and project planning}.
+\newblock John Wiley \& Sons.
 
 \bibitem[Smyth, 1999]{smyth1999peirce}
 Smyth, R. (1999).
@@ -321,6 +354,11 @@ Weiss, M.~A. (1998).
 \newblock Data structures and problem solving using java.
 \newblock {\em ACM SIGACT News}, 29(2):42--49.
 
+\bibitem[Wetherbe et~al., 2006]{wetherbe2006information}
+Wetherbe, J.~C., McLean, E.~R., Leidner, D.~E., and Turban, E. (2006).
+\newblock {\em Information technology for management: Transforming organizations in the digital economy}.
+\newblock J. Wiley.
+
 \bibitem[Wikgren, 2005]{wikgren2005critical}
 Wikgren, M. (2005).
 \newblock Critical realism as a philosophy and social theory in information science?
@@ -335,5 +373,10 @@ Winter, R. (1987).
 Wu, C.-C., Dale, N.~B., and Bethel, L.~J. (1998).
 \newblock Conceptual models and cognitive learning styles in teaching recursion.
 \newblock In {\em Proceedings of the twenty-ninth SIGCSE technical symposium on Computer science education}, pages 292--296.
+
+\bibitem[Yusuf et~al., 2004]{yusuf2004enterprise}
+Yusuf, Y., Gunasekaran, A., and Abthorpe, M.~S. (2004).
+\newblock Enterprise information systems project implementation:: A case study of erp in rolls-royce.
+\newblock {\em International journal of production economics}, 87(3):251--266.
 
 \end{thebibliography}

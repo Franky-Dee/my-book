@@ -3,49 +3,50 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Main.aux
 The style file: apalike.bst
 Database file #1: MyBib.bib
+Warning--empty journal in chang2000delphi
 Warning--empty journal in lewis1982role
 Warning--empty journal in luczak2013beyond
 Warning--empty journal in o1998overview
 Warning--there's a number but no volume in susman2023assessment
-You've used 68 entries,
+You've used 77 entries,
             1935 wiz_defined-function locations,
-            857 strings with 13478 characters,
-and the built_in function-call counts, 25796 in all, are:
-= -- 2574
-> -- 850
-< -- 61
-+ -- 294
-- -- 272
-* -- 2065
-:= -- 4421
-add.period$ -- 203
-call.type$ -- 68
-change.case$ -- 463
-chr.to.int$ -- 68
-cite$ -- 72
-duplicate$ -- 1073
-empty$ -- 1927
-format.name$ -- 364
-if$ -- 5111
+            899 strings with 14962 characters,
+and the built_in function-call counts, 28857 in all, are:
+= -- 2865
+> -- 974
+< -- 67
++ -- 340
+- -- 312
+* -- 2311
+:= -- 4972
+add.period$ -- 228
+call.type$ -- 77
+change.case$ -- 523
+chr.to.int$ -- 77
+cite$ -- 82
+duplicate$ -- 1194
+empty$ -- 2142
+format.name$ -- 418
+if$ -- 5695
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 80
-newline$ -- 339
-num.names$ -- 204
-pop$ -- 439
+missing$ -- 92
+newline$ -- 382
+num.names$ -- 231
+pop$ -- 504
 preamble$ -- 1
-purify$ -- 476
+purify$ -- 540
 quote$ -- 0
-skip$ -- 819
+skip$ -- 910
 stack$ -- 0
-substring$ -- 1888
-swap$ -- 157
+substring$ -- 2071
+swap$ -- 164
 text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 382
-warning$ -- 4
-while$ -- 241
+type$ -- 428
+warning$ -- 5
+while$ -- 265
 width$ -- 0
-write$ -- 864
-(There were 4 warnings)
+write$ -- 971
+(There were 5 warnings)
