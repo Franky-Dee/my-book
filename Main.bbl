@@ -70,6 +70,11 @@ Bhaskar, R. (2013).
 \newblock {\em A realist theory of science}.
 \newblock Routledge.
 
+\bibitem[Bibiano et~al., 2014]{bibiano2014initial}
+Bibiano, L.~H., Marco-Sim{\'o}, J.~M., and Pastor, J.~A. (2014).
+\newblock An initial approach for improving crm systems implementation projects.
+\newblock In {\em 2014 9th Iberian Conference on Information Systems and Technologies (CISTI)}, pages 1--6. IEEE.
+
 \bibitem[Bruce et~al., 2003]{bruce2003math}
 Bruce, K.~B., Drysdale, R. L.~S., Kelemen, C., and Tucker, A. (2003).
 \newblock Why math?
@@ -79,6 +84,11 @@ Bruce, K.~B., Drysdale, R. L.~S., Kelemen, C., and Tucker, A. (2003).
 Buchanan, R. (1992).
 \newblock Wicked problems in design thinking.
 \newblock {\em Design issues}, 8(2):5--21.
+
+\bibitem[Bygstad and Presthus, 2013]{bygstad2013social}
+Bygstad, B. and Presthus, W. (2013).
+\newblock Social media as crm? how two airline companies used facebook during the “ash crisis” in 2010.
+\newblock {\em Scandinavian Journal of Information Systems}, 25(1):3.
 
 \bibitem[Carlsson, 2003]{carlsson2003critical}
 Carlsson, S.~A. (2003).
@@ -183,6 +193,11 @@ Kenge, R. and Khan, Z. (2020).
 Knuth, D.~E. (1968).
 \newblock Semantics of context-free languages.
 \newblock {\em Mathematical systems theory}, 2(2):127--145.
+
+\bibitem[Kostojohn et~al., 2011]{kostojohn2011crm}
+Kostojohn, S., Paulen, B., and Johnson, M. (2011).
+\newblock {\em CRM fundamentals}.
+\newblock Springer.
 
 \bibitem[Lewis and Mack, 1982]{lewis1982role}
 Lewis, C. and Mack, R. (1982).
@@ -300,6 +315,11 @@ Rittel, H.~W. and Webber, M.~M. (1973).
 \newblock Dilemmas in a general theory of planning.
 \newblock {\em Policy sciences}, 4(2):155--169.
 
+\bibitem[Ronchi, 2009]{ronchi2009eculture}
+Ronchi, A.~M. (2009).
+\newblock {\em eCulture: cultural content in the digital age}.
+\newblock Springer Science \& Business Media.
+
 \bibitem[Ryan, 2018]{ryan2018introduction}
 Ryan, G. (2018).
 \newblock Introduction to positivism, interpretivism and critical theory.
@@ -334,6 +354,11 @@ Sein, M.~K., Henfridsson, O., Purao, S., Rossi, M., and Lindgren, R. (2011).
 Shields, M.~G. (2004).
 \newblock {\em E-business and ERP: Rapid implementation and project planning}.
 \newblock John Wiley \& Sons.
+
+\bibitem[Smilansky, 2015]{smilansky2015select}
+Smilansky, O. (2015).
+\newblock How to select a crm system: whether it's your first solution or your fourth, these tips will help make the vendor selection process easier.
+\newblock {\em CRM Magazine}, 19(4):28--32.
 
 \bibitem[Smyth, 1999]{smyth1999peirce}
 Smyth, R. (1999).
@@ -388,5 +413,10 @@ Wu, C.-C., Dale, N.~B., and Bethel, L.~J. (1998).
 Yusuf, Y., Gunasekaran, A., and Abthorpe, M.~S. (2004).
 \newblock Enterprise information systems project implementation:: A case study of erp in rolls-royce.
 \newblock {\em International journal of production economics}, 87(3):251--266.
+
+\bibitem[Zhao and Tu, 2021]{zhao2021research}
+Zhao, B. and Tu, C. (2021).
+\newblock Research and development of inventory management and human resource management in erp.
+\newblock {\em Wireless Communications and Mobile Computing}, 2021(1):3132062.
 
 \end{thebibliography}
