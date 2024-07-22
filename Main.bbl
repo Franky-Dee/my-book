@@ -285,6 +285,11 @@ Mayer-Barber, K.~D. and Yan, B. (2017).
 \newblock Clash of the cytokine titans: counter-regulation of interleukin-1 and type i interferon-mediated inflammatory responses.
 \newblock {\em Cellular \& molecular immunology}, 14(1):22--35.
 
+\bibitem[Monday.com, 2024]{monday.com}
+Monday.com (2024).
+\newblock Monday.com.
+\newblock Accessed on July 22, 2024.
+
 \bibitem[Monk and Wagner, 2013]{monk2013concepts}
 Monk, E.~F. and Wagner, B.~J. (2013).
 \newblock {\em Concepts in enterprise resource planning}.
@@ -452,6 +457,11 @@ Susman, G.~I. and Evered, R.~D. (2023).
 \newblock An assessment of the scientific merits of action research.
 \newblock {\em STUDI ORGANIZZATIVI}, (2022/2).
 
+\bibitem[TaskFlow, 2024]{taskflow}
+TaskFlow (2024).
+\newblock Taskflow.co.za.
+\newblock Accessed on July 22, 2024.
+
 \bibitem[Terminanto et~al., 2017]{terminanto2017implementation}
 Terminanto, A., Hidayat, R., and Hidayanto, A.~N. (2017).
 \newblock Implementation of enterprise resource planning using odoo module sales and crm. case study: Pt ecosains hayati.
@@ -511,5 +521,10 @@ Yusuf, Y., Gunasekaran, A., and Abthorpe, M.~S. (2004).
 Zhao, B. and Tu, C. (2021).
 \newblock Research and development of inventory management and human resource management in erp.
 \newblock {\em Wireless Communications and Mobile Computing}, 2021(1):3132062.
+
+\bibitem[Zoho, 2024]{zoho}
+Zoho (2024).
+\newblock Zoho.com.
+\newblock Accessed on July 22, 2024.
 
 \end{thebibliography}
