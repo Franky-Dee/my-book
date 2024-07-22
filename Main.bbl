@@ -20,6 +20,11 @@ Amini, M. and Abukari, A.~M. (2020).
 \newblock Erp systems architecture for the modern age: A review of the state of the art technologies.
 \newblock {\em Journal of Applied Intelligent Systems and Information Sciences}, 1(2):70--90.
 
+\bibitem[Annamalai and Ramayah, 2011]{annamalai2011enterprise}
+Annamalai, C. and Ramayah, T. (2011).
+\newblock Enterprise resource planning (erp) benefits survey of indian manufacturing firms: An empirical analysis of sap versus oracle package.
+\newblock {\em Business Process Management Journal}, 17(3):495--509.
+
 \bibitem[Archer, 2013]{archer2013social}
 Archer, M. (2013).
 \newblock {\em Social origins of educational systems}.
@@ -54,6 +59,11 @@ Baker, J.~D. (1995).
 Barnett, D.~R. (2011).
 \newblock Partnering industry and education for curricular enhancement: A response for greater educational achievement.
 \newblock {\em Online Journal for Workforce Education and Development}, 5(2):5.
+
+\bibitem[Barr et~al., 2014]{barr2014oracle}
+Barr, E.~T., Harman, M., McMinn, P., Shahbaz, M., and Yoo, S. (2014).
+\newblock The oracle problem in software testing: A survey.
+\newblock {\em IEEE transactions on software engineering}, 41(5):507--525.
 
 \bibitem[Barwise and Etchemendy, 1998]{barwise1998computers}
 Barwise, J. and Etchemendy, J. (1998).
@@ -144,10 +154,29 @@ Foley, J. (1997).
 \newblock Technology transfer from university to industry.
 \newblock In {\em Proceedings of the 2nd international conference on Intelligent user interfaces}, pages 3--4.
 
+\bibitem[Gartner, 2009]{gartner2009gartner}
+Gartner, G. (2009).
+\newblock Gartner exp worldwide survey of more than 1,500 cios shows it spending to be flat in 2009.
+\newblock {\em Disponible on line: http://www. gartner. com/newsroom/id/855612}.
+
+\bibitem[Gibson et~al., 2004]{gibson2004evaluating}
+Gibson, M., Arnott, D., Jagielska, I., and Melbourne, A. (2004).
+\newblock Evaluating the intangible benefits of business intelligence: Review \& research agenda.
+\newblock In {\em Proceedings of the 2004 IFIP International Conference on Decision Support Systems (DSS2004): Decision Support in an Uncertain and Complex World}, pages 295--305. Prato, Italy.
+
 \bibitem[Goldkuhl, 2012]{goldkuhl2012pragmatism}
 Goldkuhl, G. (2012).
 \newblock Pragmatism vs interpretivism in qualitative information systems research.
 \newblock {\em European journal of information systems}, 21:135--146.
+
+\bibitem[Hawking and Sellitto, 2010]{hawking2010business}
+Hawking, P. and Sellitto, C. (2010).
+\newblock Business intelligence (bi) critical success factors.
+
+\bibitem[Herzum, 2003]{herzum2003cutter}
+Herzum, P. (2003).
+\newblock Cutter consortium report on corporate use of bi and data warehousing technologies.
+\newblock {\em Cutter Consortium, Executive Report}, 4.
 
 \bibitem[Hevner et~al., 2010]{hevner2010design}
 Hevner, A., Chatterjee, S., Hevner, A., and Chatterjee, S. (2010).
@@ -183,6 +212,11 @@ James, W. (2020).
 Josephson, J.~R., Chandrasekaran, B., Smith, J.~W., and Tanner, M.~C. (1987).
 \newblock A mechanism for forming composite explanatory hypotheses.
 \newblock {\em IEEE Transactions on Systems, Man, and Cybernetics}, 17(3):445--454.
+
+\bibitem[Kanellou and Spathis, 2013]{kanellou2013accounting}
+Kanellou, A. and Spathis, C. (2013).
+\newblock Accounting benefits and satisfaction in an erp environment.
+\newblock {\em International Journal of Accounting Information Systems}, 14(3):209--234.
 
 \bibitem[Kenge and Khan, 2020]{kenge2020research}
 Kenge, R. and Khan, Z. (2020).
@@ -246,14 +280,34 @@ Mardiana, S. (2020).
 \newblock Modifying research onion for information systems research.
 \newblock {\em Solid State Technology}, 63(4):5304--5313.
 
+\bibitem[Mayer-Barber and Yan, 2017]{mayer2017clash}
+Mayer-Barber, K.~D. and Yan, B. (2017).
+\newblock Clash of the cytokine titans: counter-regulation of interleukin-1 and type i interferon-mediated inflammatory responses.
+\newblock {\em Cellular \& molecular immunology}, 14(1):22--35.
+
+\bibitem[Monk and Wagner, 2013]{monk2013concepts}
+Monk, E.~F. and Wagner, B.~J. (2013).
+\newblock {\em Concepts in enterprise resource planning}.
+\newblock Course Technology, Cengage Learning.
+
 \bibitem[Movshovitz-Hadar, 1993]{movshovitz1993mathematical}
 Movshovitz-Hadar, N. (1993).
 \newblock Mathematical induction: A focus on the conceptual framework.
 \newblock {\em School Science and Mathematics}, 93:408--408.
 
+\bibitem[Olszak and Ziemba, 2007]{olszak2007approach}
+Olszak, C.~M. and Ziemba, E. (2007).
+\newblock Approach to building and implementing business intelligence systems.
+\newblock {\em Interdisciplinary Journal of Information, Knowledge, and Management}, 2(1):135--148.
+
 \bibitem[O’Brien, 1998]{o1998overview}
 O’Brien, R. (1998).
 \newblock An overview of the methodological approach of action research.
+
+\bibitem[O’Regan, 2015]{o2015sap}
+O’Regan, G. (2015).
+\newblock Sap se.
+\newblock In {\em Pillars of Computing: A Compendium of Select, Pivotal Technology Firms}, pages 189--194. Springer.
 
 \bibitem[Page, 2003]{page2003software}
 Page, R.~L. (2003).
@@ -300,6 +354,11 @@ Potrac, P., Jones, R.~L., and Nelson, L. (2014).
 \newblock Interpretivism.
 \newblock In {\em Research methods in sports coaching}, pages 31--41. Routledge.
 
+\bibitem[Power, 1998]{power1998justifying}
+Power, D. (1998).
+\newblock Justifying a data warehouse project.
+\newblock {\em Part I and II. DS*, The On-Line Executive Journal for Data-Intensive Decision Support}, 2(5).
+
 \bibitem[Pries-Heje et~al., 2007]{pries2007soft}
 Pries-Heje, J., Baskerville, R., and Venable, J. (2007).
 \newblock Soft design science research: Extending the boundaries of evaluation in design science research.
@@ -314,6 +373,11 @@ Reggia, J.~A., Nau, D.~S., and Wang, P.~Y. (1983).
 Rittel, H.~W. and Webber, M.~M. (1973).
 \newblock Dilemmas in a general theory of planning.
 \newblock {\em Policy sciences}, 4(2):155--169.
+
+\bibitem[Rom and Rohde, 2006]{rom2006enterprise}
+Rom, A. and Rohde, C. (2006).
+\newblock Enterprise resource planning systems, strategic enterprise management systems and management accounting: A danish study.
+\newblock {\em Journal of enterprise information management}, 19(1):50--66.
 
 \bibitem[Ronchi, 2009]{ronchi2009eculture}
 Ronchi, A.~M. (2009).
@@ -364,6 +428,20 @@ Smilansky, O. (2015).
 Smyth, R. (1999).
 \newblock Peirce, pragmatism and the logic of scripture.
 
+\bibitem[Solutions, 2016]{solutions2016report}
+Solutions, P. (2016).
+\newblock report on erp systems and enterprise software. 1-32.
+
+\bibitem[Sommer, 2008]{sommer2008gartner}
+Sommer, D. (2008).
+\newblock Gartner says worldwide business intelligence spending to grow 11 percent in 2008.
+\newblock {\em located at www. gartner. com, accessed February}.
+
+\bibitem[Spathis and Constantinides, 2004]{spathis2004enterprise}
+Spathis, C. and Constantinides, S. (2004).
+\newblock Enterprise resource planning systems’ impact on accounting processes.
+\newblock {\em Business Process management journal}, 10(2):234--247.
+
 \bibitem[Susman, 1983]{susman1983action}
 Susman, G.~I. (1983).
 \newblock Action research: a sociotechnical systems perspective.
@@ -373,6 +451,16 @@ Susman, G.~I. (1983).
 Susman, G.~I. and Evered, R.~D. (2023).
 \newblock An assessment of the scientific merits of action research.
 \newblock {\em STUDI ORGANIZZATIVI}, (2022/2).
+
+\bibitem[Terminanto et~al., 2017]{terminanto2017implementation}
+Terminanto, A., Hidayat, R., and Hidayanto, A.~N. (2017).
+\newblock Implementation of enterprise resource planning using odoo module sales and crm. case study: Pt ecosains hayati.
+\newblock In {\em IOP Conference Series: Materials Science and Engineering}, volume 277, page 012034. IOP Publishing.
+
+\bibitem[Tsai, 2008]{tsai2008impact}
+Tsai, B.-H. (2008).
+\newblock The impact of enterprise resource planning systems on the efficiency of taiwanese firms.
+\newblock In {\em 2008 IEEE Asia-Pacific Services Computing Conference}, pages 1441--1446. IEEE.
 
 \bibitem[U{\c{c}}akt{\"u}rk and Villard, 2013]{uccakturk2013effects}
 U{\c{c}}akt{\"u}rk, A. and Villard, M. (2013).
@@ -408,6 +496,11 @@ Winter, R. (1987).
 Wu, C.-C., Dale, N.~B., and Bethel, L.~J. (1998).
 \newblock Conceptual models and cognitive learning styles in teaching recursion.
 \newblock In {\em Proceedings of the twenty-ninth SIGCSE technical symposium on Computer science education}, pages 292--296.
+
+\bibitem[Xu et~al., 2008]{xu2008review}
+Xu, Y., Rahmati, N., and Lee, V.~C. (2008).
+\newblock A review of literature on enterprise resource planning systems.
+\newblock In {\em 2008 International Conference on Service Systems and Service Management}, pages 1--6. IEEE.
 
 \bibitem[Yusuf et~al., 2004]{yusuf2004enterprise}
 Yusuf, Y., Gunasekaran, A., and Abthorpe, M.~S. (2004).

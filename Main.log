@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.2)  19 JUL 2024 15:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.2)  22 JUL 2024 09:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -693,47 +693,49 @@ Package pdftex.def Info: img/ERP system framework hierachy.png  used on input li
 <img/Human resource management system optimization rate..png, id=158, 762.85pt x 583.17876pt>
 File: img/Human resource management system optimization rate..png Graphic file (type png)
 <use img/Human resource management system optimization rate..png>
-Package pdftex.def Info: img/Human resource management system optimization rate..png  used on input line 54.
+Package pdftex.def Info: img/Human resource management system optimization rate..png  used on input line 59.
 (pdftex.def)             Requested size: 426.79135pt x 326.26643pt.
- [32 <./img/Human resource management system optimization rate..png>] [33]
-<img/rename flow chart of company's inventory and production.png, id=167, 735.74875pt x 526.96875pt>
+ [32] [33 <./img/Human resource management system optimization rate..png>] [34]
+<img/rename flow chart of company's inventory and production.png, id=170, 735.74875pt x 526.96875pt>
 File: img/rename flow chart of company's inventory and production.png Graphic file (type png)
 <use img/rename flow chart of company's inventory and production.png>
-Package pdftex.def Info: img/rename flow chart of company's inventory and production.png  used on input line 75.
+Package pdftex.def Info: img/rename flow chart of company's inventory and production.png  used on input line 79.
 (pdftex.def)             Requested size: 426.79135pt x 305.69032pt.
-<img/Flow chart of the company’s ERP-based procurement and payment process.png, id=168, 740.7675pt x 398.48875pt>
+<img/Flow chart of the company’s ERP-based procurement and payment process.png, id=171, 740.7675pt x 398.48875pt>
 File: img/Flow chart of the company’s ERP-based procurement and payment process.png Graphic file (type png)
 <use img/Flow chart of the company’s ERP-based procurement and payment process.png>
-Package pdftex.def Info: img/Flow chart of the company’s ERP-based procurement and payment process.png  used on input line 81.
+Package pdftex.def Info: img/Flow chart of the company’s ERP-based procurement and payment process.png  used on input line 86.
 (pdftex.def)             Requested size: 426.79135pt x 229.59135pt.
- [34]
-Overfull \vbox (205.73415pt too high) has occurred while \output is active []
-
- [35 <./img/rename flow chart of company's inventory and production.png> <./img/Flow chart of the company’s ERP-based procurement and payment process.png>] [36] [37]) (./Chapters/4Case_Study.tex [38]
+ [35 <./img/rename flow chart of company's inventory and production.png>] [36 <./img/Flow chart of the company’s ERP-based procurement and payment process.png>] [37] [38] [39] [40] [41]) (./Chapters/4Case_Study.tex [42]
 Overfull \vbox (335.14304pt too high) has occurred while \output is active []
 
- [39]
+ [43]
 Chapter 4.
-) (./Chapters/5Expert_Reviewer.tex [40
+) (./Chapters/5Expert_Reviewer.tex [44
 
 ]
 Overfull \vbox (211.13454pt too high) has occurred while \output is active []
 
- [41]
+ [45]
 Chapter 5.
-) (./Chapters/6Results and Discussion.tex [42
+) (./Chapters/6Results and Discussion.tex [46
 
 ]
 Chapter 6.
-) (./Chapters/7Conclusion.tex [43
+) (./Chapters/7Conclusion.tex [47
 
 ]
 Chapter 7.
-) (./Main.bbl [44
+) (./Main.bbl [48
 
-] [45
+] [49
 
-] [46] [47] [48] [49]) [50] (./Main.aux)
+] [50]
+Underfull \hbox (badness 2285) in paragraph at lines 158--161
+[]\OT1/cmr/m/n/10.95 Gartner, G. (2009).  Gart-ner exp world-wide sur-vey of more than 1,500 cios
+ []
+
+[51] [52] [53] [54]) [55] (./Main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
@@ -744,18 +746,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 16010 strings out of 473993
- 317683 string characters out of 5741041
+ 16090 strings out of 473993
+ 319576 string characters out of 5741041
  1953904 words of memory out of 5000000
- 38161 multiletter control sequences out of 15000+600000
- 578378 words of font info for 87 fonts, out of 8000000 for 9000
+ 38239 multiletter control sequences out of 15000+600000
+ 579024 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,16n,107p,1874b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Main.pdf (60 pages, 1106383 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Main.pdf (65 pages, 1162813 bytes).
 PDF statistics:
- 268 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
+ 299 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  68 words of extra memory for PDF output out of 10000 (max. 10000000)
 
