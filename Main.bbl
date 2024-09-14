@@ -5,6 +5,11 @@ Ahlawat, J. (2017).
 \newblock Role of erp in e-commerce supply chain management system.
 \newblock {\em International Journal of Advanced Education and Research}, 2(4):61--65.
 
+\bibitem[Ahmad and Cuenca, 2013]{ahmad2013critical}
+Ahmad, M.~M. and Cuenca, R.~P. (2013).
+\newblock Critical success factors for erp implementation in smes.
+\newblock {\em Robotics and computer-integrated manufacturing}, 29(3):104--111.
+
 \bibitem[Aken, 2004]{aken2004management}
 Aken, J. E.~v. (2004).
 \newblock Management research based on the paradigm of the design sciences: the quest for field-tested and grounded technological rules.
@@ -129,6 +134,11 @@ Dewey, J. (2022).
 \newblock {\em How we think}.
 \newblock DigiCat.
 
+\bibitem[Doe, 2011]{doe2011recommended}
+Doe, J. (2011).
+\newblock Recommended practice for software requirements specifications (ieee).
+\newblock {\em IEEE, New York}.
+
 \bibitem[Dubinsky, 1989]{dubinsky1989teaching}
 Dubinsky, E. (1989).
 \newblock Teaching mathematical induction ii.
@@ -144,6 +154,11 @@ Eden, A.~H. (2007).
 \newblock Three paradigms of computer science.
 \newblock {\em Minds and machines}, 17:135--167.
 
+\bibitem[Esteves and Pastor, 2001]{esteves2001enterprise}
+Esteves, J. and Pastor, J. (2001).
+\newblock Enterprise resource planning systems research: an annotated bibliography.
+\newblock {\em Communications of the association for information systems}, 7(1):8.
+
 \bibitem[Flick et~al., 2004]{flick2004qualitative}
 Flick, U., Von~Kardorff, E., and Steinke, I. (2004).
 \newblock What is qualitative research? an introduction to the field.
@@ -153,6 +168,11 @@ Flick, U., Von~Kardorff, E., and Steinke, I. (2004).
 Foley, J. (1997).
 \newblock Technology transfer from university to industry.
 \newblock In {\em Proceedings of the 2nd international conference on Intelligent user interfaces}, pages 3--4.
+
+\bibitem[for Standardization, 2011]{international2011systems}
+for Standardization, I.~O. (2011).
+\newblock {\em Systems and Software Engineering: Systems and Software Quality Requirements and Evaluation (SQuaRE): System and Software Quality Models}.
+\newblock ISO.
 
 \bibitem[Gartner, 2009]{gartner2009gartner}
 Gartner, G. (2009).
@@ -169,9 +189,24 @@ Goldkuhl, G. (2012).
 \newblock Pragmatism vs interpretivism in qualitative information systems research.
 \newblock {\em European journal of information systems}, 21:135--146.
 
+\bibitem[Goodrich and Tamassia, 2011]{goodrich2011introduction}
+Goodrich, M.~T. and Tamassia, R. (2011).
+\newblock {\em Introduction to computer security}.
+\newblock Pearson London, UK.
+
+\bibitem[Hawari and Heeks, 2010]{hawari2010explaining}
+Hawari, A. and Heeks, R. (2010).
+\newblock Explaining erp failure in developing countries.
+\newblock Technical report, Working Paper Series.
+
 \bibitem[Hawking and Sellitto, 2010]{hawking2010business}
 Hawking, P. and Sellitto, C. (2010).
 \newblock Business intelligence (bi) critical success factors.
+
+\bibitem[Hawking et~al., 2004]{hawking2004revisiting}
+Hawking, P., Stein, A., and Foster, S. (2004).
+\newblock Revisiting erp systems: benefit realization.
+\newblock In {\em 37th Annual Hawaii International Conference on System Sciences, 2004. Proceedings of the}, pages 8--pp. IEEE.
 
 \bibitem[Herzum, 2003]{herzum2003cutter}
 Herzum, P. (2003).
@@ -198,10 +233,19 @@ Hopcroft, J.~E., Motwani, R., and Ullman, J.~D. (2001).
 \newblock Introduction to automata theory, languages, and computation.
 \newblock {\em Acm Sigact News}, 32(1):60--65.
 
+\bibitem[ISTQB, 2011]{istqb2011foundation}
+ISTQB, F. (2011).
+\newblock Foundation level syllabus version 2011.
+\newblock {\em International Software Testing Qualifications Board}.
+
 \bibitem[Jacobs et~al., 2007]{jacobs2007enterprise}
 Jacobs, F.~R. et~al. (2007).
 \newblock Enterprise resource planning (erp)—a brief history.
 \newblock {\em Journal of operations management}, 25(2):357--363.
+
+\bibitem[Jacobson and Booch, 2021]{jacobson2021unified}
+Jacobson, L. and Booch, J. R.~G. (2021).
+\newblock The unified modeling language reference manual.
 
 \bibitem[James, 2020]{james2020pragmatism}
 James, W. (2020).
@@ -285,6 +329,11 @@ Mayer-Barber, K.~D. and Yan, B. (2017).
 \newblock Clash of the cytokine titans: counter-regulation of interleukin-1 and type i interferon-mediated inflammatory responses.
 \newblock {\em Cellular \& molecular immunology}, 14(1):22--35.
 
+\bibitem[McConnell, 2004]{mcconnell2004code}
+McConnell, S. (2004).
+\newblock {\em Code complete}.
+\newblock Pearson Education.
+
 \bibitem[Monday.com, 2024]{monday.com}
 Monday.com (2024).
 \newblock Monday.com.
@@ -299,6 +348,21 @@ Monk, E.~F. and Wagner, B.~J. (2013).
 Movshovitz-Hadar, N. (1993).
 \newblock Mathematical induction: A focus on the conceptual framework.
 \newblock {\em School Science and Mathematics}, 93:408--408.
+
+\bibitem[Myers et~al., 2011]{myers2011art}
+Myers, G.~J., Sandler, C., and Badgett, T. (2011).
+\newblock {\em The art of software testing}.
+\newblock John Wiley \& Sons.
+
+\bibitem[Nah et~al., 2001]{nah2001critical}
+Nah, F. F.-H., Lau, J. L.-S., and Kuang, J. (2001).
+\newblock Critical factors for successful implementation of enterprise systems.
+\newblock {\em Business process management journal}, 7(3):285--296.
+
+\bibitem[O'Leary, 2000]{o2000enterprise}
+O'Leary, D.~E. (2000).
+\newblock {\em Enterprise resource planning systems: systems, life cycle, electronic commerce, and risk}.
+\newblock Cambridge university press.
 
 \bibitem[Olszak and Ziemba, 2007]{olszak2007approach}
 Olszak, C.~M. and Ziemba, E. (2007).
@@ -364,6 +428,11 @@ Power, D. (1998).
 \newblock Justifying a data warehouse project.
 \newblock {\em Part I and II. DS*, The On-Line Executive Journal for Data-Intensive Decision Support}, 2(5).
 
+\bibitem[Pressman, 2005]{pressman2005software}
+Pressman, R.~S. (2005).
+\newblock Software engineering: a practitioner’s approach.
+\newblock {\em Pressman and Associates}.
+
 \bibitem[Pries-Heje et~al., 2007]{pries2007soft}
 Pries-Heje, J., Baskerville, R., and Venable, J. (2007).
 \newblock Soft design science research: Extending the boundaries of evaluation in design science research.
@@ -419,6 +488,11 @@ Sein, M.~K., Henfridsson, O., Purao, S., Rossi, M., and Lindgren, R. (2011).
 \newblock Action design research.
 \newblock {\em MIS quarterly}, pages 37--56.
 
+\bibitem[Shanks, 2000]{shanks2000model}
+Shanks, G. (2000).
+\newblock A model of erp project implementation.
+\newblock {\em Journal of information Technology}, 15(4):289--303.
+
 \bibitem[Shields, 2004]{shields2004business}
 Shields, M.~G. (2004).
 \newblock {\em E-business and ERP: Rapid implementation and project planning}.
@@ -442,6 +516,11 @@ Sommer, D. (2008).
 \newblock Gartner says worldwide business intelligence spending to grow 11 percent in 2008.
 \newblock {\em located at www. gartner. com, accessed February}.
 
+\bibitem[Sommerville, 2011]{sommerville2011software}
+Sommerville, I. (2011).
+\newblock Software engineering (ed.).
+\newblock {\em America: Pearson Education Inc}.
+
 \bibitem[Spathis and Constantinides, 2004]{spathis2004enterprise}
 Spathis, C. and Constantinides, S. (2004).
 \newblock Enterprise resource planning systems’ impact on accounting processes.
@@ -457,10 +536,19 @@ Susman, G.~I. and Evered, R.~D. (2023).
 \newblock An assessment of the scientific merits of action research.
 \newblock {\em STUDI ORGANIZZATIVI}, (2022/2).
 
+\bibitem[Tarafdar and Roy, 2003]{tarafdar2003analyzing}
+Tarafdar, M. and Roy, R.~K. (2003).
+\newblock Analyzing the adoption of enterprise resource planning systems in indian organizations: a process framework.
+\newblock {\em Journal of Global Information Technology Management}, 6(1):21--51.
+
 \bibitem[TaskFlow, 2024]{taskflow}
 TaskFlow (2024).
 \newblock Taskflow.co.za.
 \newblock Accessed on July 22, 2024.
+
+\bibitem[Team, 2002]{team2002capability}
+Team, C. (2002).
+\newblock Capability maturity model{\textregistered} integration (cmmi), version 1.1--continuous representation.
 
 \bibitem[Terminanto et~al., 2017]{terminanto2017implementation}
 Terminanto, A., Hidayat, R., and Hidayanto, A.~N. (2017).
@@ -476,6 +564,11 @@ Tsai, B.-H. (2008).
 U{\c{c}}akt{\"u}rk, A. and Villard, M. (2013).
 \newblock The effects of management information and erp systems on strategic knowledge management and decision-making.
 \newblock {\em Procedia-Social and Behavioral Sciences}, 99:1035--1043.
+
+\bibitem[Vukovic et~al., 2023]{vukovic2023erp}
+Vukovic, V., Gagi{\'c}, N., Rakovi{\'c}, L., and Mari{\'c}, S. (2023).
+\newblock Erp systems for small and medium-sized enterprises from the sap and microsoft perspective.
+\newblock In {\em International Scientific Conference Strategic Management and decision Support systems in Strategic Management}, pages 333--339.
 
 \bibitem[Walls et~al., 1992]{walls1992building}
 Walls, J.~G., Widmeyer, G.~R., and El~Sawy, O.~A. (1992).
@@ -516,6 +609,11 @@ Xu, Y., Rahmati, N., and Lee, V.~C. (2008).
 Yusuf, Y., Gunasekaran, A., and Abthorpe, M.~S. (2004).
 \newblock Enterprise information systems project implementation:: A case study of erp in rolls-royce.
 \newblock {\em International journal of production economics}, 87(3):251--266.
+
+\bibitem[Zhang et~al., 2003]{zhang2003critical}
+Zhang, L., Lee, M.~K., Zhang, Z., and Banerjee, P. (2003).
+\newblock Critical success factors of enterprise resource planning systems implementation success in china.
+\newblock In {\em 36th Annual Hawaii International Conference on System Sciences, 2003. Proceedings of the}, pages 10--pp. IEEE.
 
 \bibitem[Zhao and Tu, 2021]{zhao2021research}
 Zhao, B. and Tu, C. (2021).

@@ -45,67 +45,84 @@
 \contentsline {subsubsection}{Oracle}{38}{}%
 \contentsline {subsubsection}{Microsoft}{39}{}%
 \contentsline {subsubsection}{Monday.com, Zoho, and Taskflow}{39}{}%
-\contentsline {subsection}{\numberline {3.1.3}Components of an Industry Approved Software System}{41}{}%
-\contentsline {subsection}{\numberline {3.1.4}Components of an Industry Approved ERP System}{41}{}%
-\contentsline {section}{\numberline {3.2}Implementation of ERP Systems}{41}{}%
-\contentsline {subsubsection}{Business Process Research and Requirements Gathering}{41}{}%
-\contentsline {subsubsection}{Software Installation}{41}{}%
-\contentsline {subsubsection}{Data Migration}{42}{}%
-\contentsline {subsubsection}{Testing}{42}{}%
-\contentsline {subsubsection}{User Training}{42}{}%
-\contentsline {subsubsection}{Final Deployment}{42}{}%
-\contentsline {subsubsection}{Support}{42}{}%
-\contentsline {subsection}{\numberline {3.2.1}ERP Implementation Time}{43}{}%
-\contentsline {subsection}{\numberline {3.2.2}Critical Competencies for Software Development}{44}{}%
-\contentsline {section}{\numberline {3.3}The Information Technology Industry}{44}{}%
-\contentsline {subsection}{\numberline {3.3.1}Challenges within the Information Technology Industry}{44}{}%
-\contentsline {subsection}{\numberline {3.3.2}Challenges Exclusive to Developing Nations}{44}{}%
-\contentsline {subsubsection}{The Purpose of a University}{44}{}%
-\contentsline {subsection}{\numberline {3.3.3}Developing Nations vs. The Rest of the World}{44}{}%
-\contentsline {section}{\numberline {3.4}The Value Chain}{44}{}%
-\contentsline {subsection}{\numberline {3.4.1}People}{44}{}%
-\contentsline {subsection}{\numberline {3.4.2}Processes}{44}{}%
-\contentsline {subsection}{\numberline {3.4.3}Technology}{44}{}%
-\contentsline {subsubsection}{Hardware}{44}{}%
-\contentsline {subsubsection}{Software}{44}{}%
-\contentsline {subsubsection}{Infrastructure}{44}{}%
-\contentsline {subsection}{\numberline {3.4.4}The Economic Viability of Academic and Industry Partnership}{44}{}%
-\contentsline {subsection}{\numberline {3.4.5}Industry Offering Resources to Universities}{44}{}%
-\contentsline {section}{\numberline {3.5}Commercialization of Software}{44}{}%
-\contentsline {subsection}{\numberline {3.5.1}Methods of Commercialization}{44}{}%
-\contentsline {subsubsection}{Recommendation}{44}{}%
-\contentsline {section}{\numberline {3.6}Students in Industry}{44}{}%
-\contentsline {subsection}{\numberline {3.6.1}Advantages}{44}{}%
-\contentsline {subsection}{\numberline {3.6.2}Threats}{44}{}%
-\contentsline {subsection}{\numberline {3.6.3}Similar Projects}{44}{}%
-\contentsline {section}{\numberline {3.7}Project Management Methodologies}{44}{}%
-\contentsline {subsection}{\numberline {3.7.1}Software Development Management Methodologies}{44}{}%
-\contentsline {subsection}{\numberline {3.7.2}Recommendations}{44}{}%
-\contentsline {section}{\numberline {3.8}Artefact}{44}{}%
-\contentsline {subsection}{\numberline {3.8.1}Methods for Measuring Artefact Success}{44}{}%
-\contentsline {subsection}{\numberline {3.8.2}Methods for Measuring Artefact Functionality}{44}{}%
-\contentsline {subsection}{\numberline {3.8.3}TAM Model}{44}{}%
-\contentsline {chapter}{\numberline {4}Case Study}{45}{}%
-\contentsline {section}{\numberline {4.1}University}{46}{}%
-\contentsline {subsection}{\numberline {4.1.1}Academic Deliverables}{46}{}%
-\contentsline {section}{\numberline {4.2}Industry}{46}{}%
-\contentsline {section}{\numberline {4.3}Implementation of Project Management Methodology}{46}{}%
-\contentsline {section}{\numberline {4.4}Student Team and Roles}{46}{}%
-\contentsline {section}{\numberline {4.5}Project Design}{46}{}%
-\contentsline {subsection}{\numberline {4.5.1}Requirements Gathering}{46}{}%
-\contentsline {subsubsection}{Internal Questioning}{46}{}%
-\contentsline {subsubsection}{Abstract Requirements Summary}{46}{}%
-\contentsline {subsubsection}{Functional Requirements Summary}{46}{}%
-\contentsline {subsubsection}{Feature Comparison}{46}{}%
-\contentsline {subsection}{\numberline {4.5.2}System Requirements Definition}{46}{}%
-\contentsline {subsubsection}{Year 1 Prototype}{46}{}%
-\contentsline {subsubsection}{Year 2 Client Configuration}{46}{}%
-\contentsline {section}{\numberline {4.6}Project Pipeline and Process}{46}{}%
-\contentsline {subsection}{\numberline {4.6.1}Project Milestones}{46}{}%
-\contentsline {subsection}{\numberline {4.6.2}Project Plan}{46}{}%
-\contentsline {subsubsection}{Year 1}{46}{}%
-\contentsline {subsubsection}{Year 2}{46}{}%
-\contentsline {chapter}{\numberline {5}Expert Reviewer}{47}{}%
-\contentsline {chapter}{\numberline {6}Results and Discussion}{48}{}%
-\contentsline {section}{\numberline {6.1}Recommendations}{48}{}%
-\contentsline {chapter}{\numberline {7}Conclusion}{49}{}%
+\contentsline {subsection}{\numberline {3.1.3}Components of Developing an Industry Approved Software System}{41}{}%
+\contentsline {subsubsection}{Requirements}{41}{}%
+\contentsline {subsubsection}{Systems Design}{41}{}%
+\contentsline {subsubsection}{Implementation}{41}{}%
+\contentsline {subsubsection}{Testing}{41}{}%
+\contentsline {subsubsection}{Quality Assurance}{42}{}%
+\contentsline {subsubsection}{Deployment}{42}{}%
+\contentsline {subsubsection}{Maintenance}{42}{}%
+\contentsline {subsubsection}{Security}{42}{}%
+\contentsline {subsubsection}{Documentation}{42}{}%
+\contentsline {subsubsection}{Compliance}{43}{}%
+\contentsline {subsection}{\numberline {3.1.4}Components of Developing an Industry Approved ERP System}{43}{}%
+\contentsline {subsubsection}{Requirements}{43}{}%
+\contentsline {subsubsection}{Systems Design}{43}{}%
+\contentsline {subsubsection}{Implementation}{44}{}%
+\contentsline {subsubsection}{Testing}{44}{}%
+\contentsline {subsubsection}{Quality Assurance}{44}{}%
+\contentsline {subsubsection}{Deployment}{45}{}%
+\contentsline {subsubsection}{Maintenance}{45}{}%
+\contentsline {subsubsection}{Security}{45}{}%
+\contentsline {section}{\numberline {3.2}Implementation of ERP Systems}{46}{}%
+\contentsline {subsubsection}{Business Process Research and Requirements Gathering}{46}{}%
+\contentsline {subsubsection}{Software Installation}{46}{}%
+\contentsline {subsubsection}{Data Migration}{46}{}%
+\contentsline {subsubsection}{User Training}{47}{}%
+\contentsline {subsubsection}{Final Deployment}{47}{}%
+\contentsline {subsubsection}{Support}{47}{}%
+\contentsline {subsection}{\numberline {3.2.1}ERP Implementation Time}{47}{}%
+\contentsline {section}{\numberline {3.3}Critical Competencies for Software Development}{48}{}%
+\contentsline {section}{\numberline {3.4}The Information Technology Industry}{48}{}%
+\contentsline {subsection}{\numberline {3.4.1}Challenges within the Information Technology Industry}{48}{}%
+\contentsline {subsection}{\numberline {3.4.2}Challenges Exclusive to Developing Nations}{48}{}%
+\contentsline {subsubsection}{The Purpose of a University}{48}{}%
+\contentsline {subsection}{\numberline {3.4.3}Developing Nations vs. The Rest of the World}{48}{}%
+\contentsline {section}{\numberline {3.5}The Value Chain}{48}{}%
+\contentsline {subsection}{\numberline {3.5.1}People}{48}{}%
+\contentsline {subsection}{\numberline {3.5.2}Processes}{48}{}%
+\contentsline {subsection}{\numberline {3.5.3}Technology}{48}{}%
+\contentsline {subsubsection}{Hardware}{48}{}%
+\contentsline {subsubsection}{Software}{48}{}%
+\contentsline {subsubsection}{Infrastructure}{48}{}%
+\contentsline {subsection}{\numberline {3.5.4}The Economic Viability of Academic and Industry Partnership}{48}{}%
+\contentsline {subsection}{\numberline {3.5.5}Industry Offering Resources to Universities}{48}{}%
+\contentsline {section}{\numberline {3.6}Commercialization of Software}{48}{}%
+\contentsline {subsection}{\numberline {3.6.1}Methods of Commercialization}{48}{}%
+\contentsline {subsubsection}{Recommendation}{48}{}%
+\contentsline {section}{\numberline {3.7}Students in Industry}{48}{}%
+\contentsline {subsection}{\numberline {3.7.1}Advantages}{48}{}%
+\contentsline {subsection}{\numberline {3.7.2}Threats}{48}{}%
+\contentsline {subsection}{\numberline {3.7.3}Similar Projects}{48}{}%
+\contentsline {section}{\numberline {3.8}Project Management Methodologies}{48}{}%
+\contentsline {subsection}{\numberline {3.8.1}Software Development Management Methodologies}{48}{}%
+\contentsline {subsection}{\numberline {3.8.2}Recommendations}{48}{}%
+\contentsline {section}{\numberline {3.9}Artefact}{48}{}%
+\contentsline {subsection}{\numberline {3.9.1}Methods for Measuring Artefact Success}{48}{}%
+\contentsline {subsection}{\numberline {3.9.2}Methods for Measuring Artefact Functionality}{48}{}%
+\contentsline {subsection}{\numberline {3.9.3}TAM Model}{48}{}%
+\contentsline {chapter}{\numberline {4}Case Study}{49}{}%
+\contentsline {section}{\numberline {4.1}University}{50}{}%
+\contentsline {subsection}{\numberline {4.1.1}Academic Deliverables}{50}{}%
+\contentsline {section}{\numberline {4.2}Industry}{50}{}%
+\contentsline {section}{\numberline {4.3}Implementation of Project Management Methodology}{50}{}%
+\contentsline {section}{\numberline {4.4}Student Team and Roles}{50}{}%
+\contentsline {section}{\numberline {4.5}Project Design}{50}{}%
+\contentsline {subsection}{\numberline {4.5.1}Requirements Gathering}{50}{}%
+\contentsline {subsubsection}{Internal Questioning}{50}{}%
+\contentsline {subsubsection}{Abstract Requirements Summary}{50}{}%
+\contentsline {subsubsection}{Functional Requirements Summary}{50}{}%
+\contentsline {subsubsection}{Feature Comparison}{50}{}%
+\contentsline {subsection}{\numberline {4.5.2}System Requirements Definition}{50}{}%
+\contentsline {subsubsection}{Year 1 Prototype}{50}{}%
+\contentsline {subsubsection}{Year 2 Client Configuration}{50}{}%
+\contentsline {section}{\numberline {4.6}Project Pipeline and Process}{50}{}%
+\contentsline {subsection}{\numberline {4.6.1}Project Milestones}{50}{}%
+\contentsline {subsection}{\numberline {4.6.2}Project Plan}{50}{}%
+\contentsline {subsubsection}{Year 1}{50}{}%
+\contentsline {subsubsection}{Year 2}{50}{}%
+\contentsline {chapter}{\numberline {5}Expert Reviewer}{51}{}%
+\contentsline {chapter}{\numberline {6}Results and Discussion}{52}{}%
+\contentsline {section}{\numberline {6.1}Recommendations}{52}{}%
+\contentsline {chapter}{\numberline {7}Conclusion}{53}{}%
