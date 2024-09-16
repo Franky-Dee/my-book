@@ -83,46 +83,47 @@
 \contentsline {subsubsection}{Hardware}{51}{}%
 \contentsline {subsubsection}{Software}{51}{}%
 \contentsline {subsubsection}{Infrastructure}{51}{}%
-\contentsline {subsection}{\numberline {3.4.4}The Economic Viability of Academic and Industry Partnership}{52}{}%
-\contentsline {subsection}{\numberline {3.4.5}Industry Offering Resources to Universities}{52}{}%
 \contentsline {section}{\numberline {3.5}Commercialization of Software}{52}{}%
 \contentsline {subsection}{\numberline {3.5.1}Methods of Commercialization}{52}{}%
 \contentsline {subsubsection}{Recommendation}{52}{}%
 \contentsline {section}{\numberline {3.6}Students in Industry}{52}{}%
 \contentsline {subsection}{\numberline {3.6.1}The Purpose of a University}{52}{}%
-\contentsline {subsection}{\numberline {3.6.2}Critical Competencies for Software Development}{52}{}%
-\contentsline {subsubsection}{The Skill Gap Between University and Industry}{55}{}%
-\contentsline {subsection}{\numberline {3.6.3}Advantages}{55}{}%
-\contentsline {subsection}{\numberline {3.6.4}Threats}{55}{}%
-\contentsline {subsection}{\numberline {3.6.5}Similar Projects}{55}{}%
-\contentsline {section}{\numberline {3.7}Project Management Methodologies}{55}{}%
-\contentsline {subsection}{\numberline {3.7.1}Software Development Management Methodologies}{55}{}%
-\contentsline {subsection}{\numberline {3.7.2}Recommendations}{55}{}%
-\contentsline {section}{\numberline {3.8}Artefact}{55}{}%
-\contentsline {subsection}{\numberline {3.8.1}Methods for Measuring Artefact Success}{55}{}%
-\contentsline {subsection}{\numberline {3.8.2}Methods for Measuring Artefact Functionality}{55}{}%
-\contentsline {subsection}{\numberline {3.8.3}TAM Model}{55}{}%
-\contentsline {chapter}{\numberline {4}Case Study}{56}{}%
-\contentsline {section}{\numberline {4.1}University}{57}{}%
-\contentsline {subsection}{\numberline {4.1.1}Academic Deliverables}{57}{}%
-\contentsline {section}{\numberline {4.2}Industry}{57}{}%
-\contentsline {section}{\numberline {4.3}Implementation of Project Management Methodology}{57}{}%
-\contentsline {section}{\numberline {4.4}Student Team and Roles}{57}{}%
-\contentsline {section}{\numberline {4.5}Project Design}{57}{}%
-\contentsline {subsection}{\numberline {4.5.1}Requirements Gathering}{57}{}%
-\contentsline {subsubsection}{Internal Questioning}{57}{}%
-\contentsline {subsubsection}{Abstract Requirements Summary}{57}{}%
-\contentsline {subsubsection}{Functional Requirements Summary}{57}{}%
-\contentsline {subsubsection}{Feature Comparison}{57}{}%
-\contentsline {subsection}{\numberline {4.5.2}System Requirements Definition}{57}{}%
-\contentsline {subsubsection}{Year 1 Prototype}{57}{}%
-\contentsline {subsubsection}{Year 2 Client Configuration}{57}{}%
-\contentsline {section}{\numberline {4.6}Project Pipeline and Process}{57}{}%
-\contentsline {subsection}{\numberline {4.6.1}Project Milestones}{57}{}%
-\contentsline {subsection}{\numberline {4.6.2}Project Plan}{57}{}%
-\contentsline {subsubsection}{Year 1}{57}{}%
-\contentsline {subsubsection}{Year 2}{57}{}%
-\contentsline {chapter}{\numberline {5}Expert Reviewer}{58}{}%
-\contentsline {chapter}{\numberline {6}Results and Discussion}{59}{}%
-\contentsline {section}{\numberline {6.1}Recommendations}{59}{}%
-\contentsline {chapter}{\numberline {7}Conclusion}{60}{}%
+\contentsline {subsection}{\numberline {3.6.2}The Economic Viability of Academic and Industry Partnership}{52}{}%
+\contentsline {subsection}{\numberline {3.6.3}Industry Offering Resources to Universities}{53}{}%
+\contentsline {subsection}{\numberline {3.6.4}Critical Competencies for Software Development}{53}{}%
+\contentsline {subsubsection}{The Skill Gap Between University and Industry}{56}{}%
+\contentsline {subsection}{\numberline {3.6.5}Advantages}{56}{}%
+\contentsline {subsection}{\numberline {3.6.6}Threats}{56}{}%
+\contentsline {subsection}{\numberline {3.6.7}Similar Projects}{56}{}%
+\contentsline {section}{\numberline {3.7}Project Management Methodologies}{56}{}%
+\contentsline {subsection}{\numberline {3.7.1}Software Development Management Methodologies}{56}{}%
+\contentsline {subsection}{\numberline {3.7.2}Recommendations}{56}{}%
+\contentsline {section}{\numberline {3.8}Artefact}{56}{}%
+\contentsline {subsection}{\numberline {3.8.1}Methods for Measuring Artefact Success}{56}{}%
+\contentsline {subsection}{\numberline {3.8.2}Methods for Measuring Artefact Functionality}{56}{}%
+\contentsline {subsection}{\numberline {3.8.3}TAM Model}{56}{}%
+\contentsline {section}{\numberline {3.9}Conclusion}{56}{}%
+\contentsline {chapter}{\numberline {4}Case Study}{57}{}%
+\contentsline {section}{\numberline {4.1}University}{58}{}%
+\contentsline {subsection}{\numberline {4.1.1}Academic Deliverables}{58}{}%
+\contentsline {section}{\numberline {4.2}Industry}{58}{}%
+\contentsline {section}{\numberline {4.3}Implementation of Project Management Methodology}{58}{}%
+\contentsline {section}{\numberline {4.4}Student Team and Roles}{58}{}%
+\contentsline {section}{\numberline {4.5}Project Design}{58}{}%
+\contentsline {subsection}{\numberline {4.5.1}Requirements Gathering}{58}{}%
+\contentsline {subsubsection}{Internal Questioning}{58}{}%
+\contentsline {subsubsection}{Abstract Requirements Summary}{58}{}%
+\contentsline {subsubsection}{Functional Requirements Summary}{58}{}%
+\contentsline {subsubsection}{Feature Comparison}{58}{}%
+\contentsline {subsection}{\numberline {4.5.2}System Requirements Definition}{58}{}%
+\contentsline {subsubsection}{Year 1 Prototype}{58}{}%
+\contentsline {subsubsection}{Year 2 Client Configuration}{58}{}%
+\contentsline {section}{\numberline {4.6}Project Pipeline and Process}{58}{}%
+\contentsline {subsection}{\numberline {4.6.1}Project Milestones}{58}{}%
+\contentsline {subsection}{\numberline {4.6.2}Project Plan}{58}{}%
+\contentsline {subsubsection}{Year 1}{58}{}%
+\contentsline {subsubsection}{Year 2}{58}{}%
+\contentsline {chapter}{\numberline {5}Expert Reviewer}{59}{}%
+\contentsline {chapter}{\numberline {6}Results and Discussion}{60}{}%
+\contentsline {section}{\numberline {6.1}Recommendations}{60}{}%
+\contentsline {chapter}{\numberline {7}Conclusion}{61}{}%

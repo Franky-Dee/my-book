@@ -30,6 +30,11 @@ Amini, M. and Abukari, A.~M. (2020).
 \newblock Erp systems architecture for the modern age: A review of the state of the art technologies.
 \newblock {\em Journal of Applied Intelligent Systems and Information Sciences}, 1(2):70--90.
 
+\bibitem[Ankrah and Omar, 2015]{ankrah2015universities}
+Ankrah, S. and Omar, A.-T. (2015).
+\newblock Universities--industry collaboration: A systematic review.
+\newblock {\em Scandinavian journal of management}, 31(3):387--408.
+
 \bibitem[Annamalai and Ramayah, 2011]{annamalai2011enterprise}
 Annamalai, C. and Ramayah, T. (2011).
 \newblock Enterprise resource planning (erp) benefits survey of indian manufacturing firms: An empirical analysis of sap versus oracle package.
@@ -193,6 +198,11 @@ Eden, A.~H. (2007).
 Esteves, J. and Pastor, J. (2001).
 \newblock Enterprise resource planning systems research: an annotated bibliography.
 \newblock {\em Communications of the association for information systems}, 7(1):8.
+
+\bibitem[Etzkowitz and Leydesdorff, 2000]{etzkowitz2000dynamics}
+Etzkowitz, H. and Leydesdorff, L. (2000).
+\newblock The dynamics of innovation: from national systems and “mode 2” to a triple helix of university--industry--government relations.
+\newblock {\em Research policy}, 29(2):109--123.
 
 \bibitem[Fagerholm et~al., 2014]{fagerholm2014role}
 Fagerholm, F., Guinea, A.~S., M{\"u}nch, J., and Borenstein, J. (2014).
@@ -419,6 +429,10 @@ Movshovitz-Hadar, N. (1993).
 \newblock Mathematical induction: A focus on the conceptual framework.
 \newblock {\em School Science and Mathematics}, 93:408--408.
 
+\bibitem[Mowery and Sampat, 2006]{mowery2006universities}
+Mowery, D.~C. and Sampat, B.~N. (2006).
+\newblock Universities in national innovation systems.
+
 \bibitem[Myers et~al., 2011]{myers2011art}
 Myers, G.~J., Sandler, C., and Badgett, T. (2011).
 \newblock {\em The art of software testing}.
@@ -477,6 +491,11 @@ Peffers, K., Tuunanen, T., Rothenberger, M.~A., and Chatterjee, S. (2007).
 Pelphrey, M.~W. (2015).
 \newblock {\em Directing the ERP implementation: A best practice guide to avoiding program failure traps while tuning system performance}.
 \newblock CRC Press.
+
+\bibitem[Perkmann et~al., 2013]{perkmann2013academic}
+Perkmann, M., Tartari, V., McKelvey, M., Autio, E., Brostr{\"o}m, A., D’este, P., Fini, R., Geuna, A., Grimaldi, R., Hughes, A., et~al. (2013).
+\newblock Academic engagement and commercialisation: A review of the literature on university--industry relations.
+\newblock {\em Research policy}, 42(2):423--442.
 
 \bibitem[Pierce, 2002]{pierce2002types}
 Pierce, B.~C. (2002).
@@ -669,6 +688,11 @@ U{\c{c}}akt{\"u}rk, A. and Villard, M. (2013).
 Vukovic, V., Gagi{\'c}, N., Rakovi{\'c}, L., and Mari{\'c}, S. (2023).
 \newblock Erp systems for small and medium-sized enterprises from the sap and microsoft perspective.
 \newblock In {\em International Scientific Conference Strategic Management and decision Support systems in Strategic Management}, pages 333--339.
+
+\bibitem[Wadhwani et~al., 2014]{wadhwani2014future}
+Wadhwani, R.~D., Bucheli, M., et~al. (2014).
+\newblock The future of the past in management and organization studies.
+\newblock {\em Organizations in time: History, theory, methods}, 4.
 
 \bibitem[Walls et~al., 1992]{walls1992building}
 Walls, J.~G., Widmeyer, G.~R., and El~Sawy, O.~A. (1992).
