@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex Main"] 1726478551.44128 "Main.aux" "Main.bbl" "Main" 1726478553.00814 0
-  "./MyBib.bib" 1726477697.86049 34559 a00bd87dd2dbedcc42e8e7caeed0c631 ""
+["bibtex Main"] 1726504391.33463 "Main.aux" "Main.bbl" "Main" 1726504392.96459 0
+  "./MyBib.bib" 1726504335.67215 37948 bc114bd12ed969e094e92f77e48bb5c6 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "Main.aux" 1726478552.70779 30554 ffd677ca057811a9951187170f86dc46 "pdflatex"
+  "Main.aux" 1726504392.67959 32241 8338dab765ba4e66da3bfa4910cfb07e "pdflatex"
   (generated)
   "Main.bbl"
   "Main.blg"
   (rewritten before read)
-["pdflatex"] 1726478551.56892 "/home/franky/Desktop/Masters Project/Thesis/my-book/Main.tex" "Main.pdf" "Main" 1726478553.00833 0
-  "/home/franky/Desktop/Masters Project/Thesis/my-book/Main.tex" 1726299346.92109 2848 c026a929c16d8f7685908ad7d6ba011f ""
+["pdflatex"] 1726504391.45261 "/home/franky/Desktop/Masters Project/Thesis/my-book/Main.tex" "Main.pdf" "Main" 1726504392.96504 0
+  "/home/franky/Desktop/Masters Project/Thesis/my-book/Main.tex" 1726478764.23493 2891 5376d42154d158b7157993e8a97dc0bd ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -173,17 +173,17 @@
   "/usr/local/texlive/2024/texmf.cnf" 1717344333.19381 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "Chapters/1Introduction.tex" 1719326687.7001 19284 79b56d734595be3098a676352ba636e6 ""
   "Chapters/2Research_Design.tex" 1717420733.83053 51133 275fd0e244667c0f16035e3781dfbadc ""
-  "Chapters/3Literatrure_Study.tex" 1726478549.73266 53817 f7f9cc7c8f172cf3be70ecf5314b83e8 ""
+  "Chapters/3Literatrure_Study.tex" 1726504386.30454 65546 296ea84a22d9dfcbb5fe993ed367581f ""
   "Chapters/4Case_Study.tex" 1717387518 823 74e4d9bea18ba25929c8ecb084652079 ""
   "Chapters/5Expert_Reviewer.tex" 1717387518 25 633ef076b39f258e11dea67098deba09 ""
   "Chapters/6Results and Discussion.tex" 1717387518 59 0ad7af94ff3d2cea29992d87964cb9c4 ""
   "Chapters/7Conclusion.tex" 1717387518 20 62fe8ebce78c4d50a9606c96530c0c05 ""
-  "Main.aux" 1726478552.70779 30554 ffd677ca057811a9951187170f86dc46 "pdflatex"
-  "Main.bbl" 1726478551.56274 27896 042d678e55f220edfa35afa9b238db61 "bibtex Main"
-  "Main.lof" 1726478552.70979 1156 fcfa94d90c750ef81e8215d736178c72 "pdflatex"
-  "Main.lot" 1726478552.70979 568 a22d5c47cc157eaf77785e6c5bbae888 "pdflatex"
-  "Main.tex" 1726299346.92109 2848 c026a929c16d8f7685908ad7d6ba011f ""
-  "Main.toc" 1726478552.70979 8599 43931e295b8670b9bb5b695f8e1abb50 "pdflatex"
+  "Main.aux" 1726504392.67959 32241 8338dab765ba4e66da3bfa4910cfb07e "pdflatex"
+  "Main.bbl" 1726504391.44758 31000 a16ab92bfbc2ae1a387937367c166381 "bibtex Main"
+  "Main.lof" 1726504392.68159 1156 fcfa94d90c750ef81e8215d736178c72 "pdflatex"
+  "Main.lot" 1726504392.68159 568 b4f4c73f3a5742e55352f22b880ba709 "pdflatex"
+  "Main.tex" 1726478764.23493 2891 5376d42154d158b7157993e8a97dc0bd ""
+  "Main.toc" 1726504392.68159 8593 9a1c426921580da75eed461d7b48ec8b "pdflatex"
   "NWUStyle.sty" 1717387518 5144 1396f9b6419f2ed6c4dcd26c51887880 ""
   "img/ADR stages and principles.png" 1717408719.17259 87935 3418fd9fbedb349c446f035834287950 ""
   "img/Design science research process (DSRP) model.png" 1717387518 73814 28f9507d380bb8b104c26aa922908545 ""

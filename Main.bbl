@@ -1,5 +1,10 @@
 \begin{thebibliography}{}
 
+\bibitem[Agrawal and Thite, 2003]{agrawal2003human}
+Agrawal, N.~M. and Thite, M. (2003).
+\newblock Human resource issues, challenges and strategies in the indian software industry.
+\newblock {\em International Journal of Human Resources Development and Management}, 3(3):249--264.
+
 \bibitem[Ahlawat, 2017]{ahlawat2017role}
 Ahlawat, J. (2017).
 \newblock Role of erp in e-commerce supply chain management system.
@@ -80,6 +85,16 @@ Baskerville, R. and Wood-Harper, A.~T. (1998).
 \newblock Diversity in information systems action research methods.
 \newblock {\em European Journal of information systems}, 7:90--107.
 
+\bibitem[Bass et~al., 2015]{bass2015devops}
+Bass, L., Weber, I., and Zhu, L. (2015).
+\newblock {\em DevOps: A software architect's perspective}.
+\newblock Addison-Wesley Professional.
+
+\bibitem[Becker, 2009]{becker2009human}
+Becker, G.~S. (2009).
+\newblock {\em Human capital: A theoretical and empirical analysis, with special reference to education}.
+\newblock University of Chicago press.
+
 \bibitem[Bhaskar, 2013]{bhaskar2013realist}
 Bhaskar, R. (2013).
 \newblock {\em A realist theory of science}.
@@ -90,15 +105,25 @@ Bibiano, L.~H., Marco-Sim{\'o}, J.~M., and Pastor, J.~A. (2014).
 \newblock An initial approach for improving crm systems implementation projects.
 \newblock In {\em 2014 9th Iberian Conference on Information Systems and Technologies (CISTI)}, pages 1--6. IEEE.
 
-\bibitem[Brooks and Bullet, 1987]{brooks1987essence}
-Brooks, F.~P. and Bullet, N.~S. (1987).
-\newblock Essence and accidents of software engineering.
+\bibitem[Boehm, 1988]{boehm1988spiral}
+Boehm, B.~W. (1988).
+\newblock A spiral model of software development and enhancement.
+\newblock {\em Computer}, 21(5):61--72.
+
+\bibitem[Brooks, 1987]{brooks1987essence}
+Brooks, F.~P. (1987).
+\newblock No silver bullet: Essence and accidents of software engineering.
 \newblock {\em IEEE computer}, 20(4):10--19.
 
 \bibitem[Bruce et~al., 2003]{bruce2003math}
 Bruce, K.~B., Drysdale, R. L.~S., Kelemen, C., and Tucker, A. (2003).
 \newblock Why math?
 \newblock {\em Communications of the ACM}, 46(9):40--44.
+
+\bibitem[Brynjolfsson and McAfee, 2014]{brynjolfsson2014second}
+Brynjolfsson, E. and McAfee, A. (2014).
+\newblock {\em The second machine age: Work, progress, and prosperity in a time of brilliant technologies}.
+\newblock WW Norton \& Company.
 
 \bibitem[Buchanan, 1992]{buchanan1992wicked}
 Buchanan, R. (1992).
@@ -133,6 +158,11 @@ Cormen, T.~H., Leiserson, C.~E., Rivest, R.~L., and Stein, C. (2022).
 Davison, R., Martinsons, M.~G., and Kock, N. (2004).
 \newblock Principles of canonical action research.
 \newblock {\em Information systems journal}, 14(1):65--86.
+
+\bibitem[DeMarco and Lister, 2013]{demarco2013peopleware}
+DeMarco, T. and Lister, T. (2013).
+\newblock {\em Peopleware: productive projects and teams}.
+\newblock Addison-Wesley.
 
 \bibitem[Dewey, 2022]{dewey2022we}
 Dewey, J. (2022).
@@ -184,6 +214,11 @@ for Standardization, I.~O. (2011).
 \newblock {\em Systems and Software Engineering: Systems and Software Quality Requirements and Evaluation (SQuaRE): System and Software Quality Models}.
 \newblock ISO.
 
+\bibitem[Fowler et~al., 2001]{fowler2001agile}
+Fowler, M., Highsmith, J., et~al. (2001).
+\newblock The agile manifesto.
+\newblock {\em Software development}, 9(8):28--35.
+
 \bibitem[Gartner, 2009]{gartner2009gartner}
 Gartner, G. (2009).
 \newblock Gartner exp worldwide survey of more than 1,500 cios shows it spending to be flat in 2009.
@@ -193,6 +228,11 @@ Gartner, G. (2009).
 Gibson, M., Arnott, D., Jagielska, I., and Melbourne, A. (2004).
 \newblock Evaluating the intangible benefits of business intelligence: Review \& research agenda.
 \newblock In {\em Proceedings of the 2004 IFIP International Conference on Decision Support Systems (DSS2004): Decision Support in an Uncertain and Complex World}, pages 295--305. Prato, Italy.
+
+\bibitem[Glass, 2006]{glass2006software}
+Glass, R.~L. (2006).
+\newblock {\em Software Creativity 2.0}.
+\newblock developer.* Books.
 
 \bibitem[Goldkuhl, 2012]{goldkuhl2012pragmatism}
 Goldkuhl, G. (2012).
@@ -217,6 +257,21 @@ Hawking, P. and Sellitto, C. (2010).
 Hawking, P., Stein, A., and Foster, S. (2004).
 \newblock Revisiting erp systems: benefit realization.
 \newblock In {\em 37th Annual Hawaii International Conference on System Sciences, 2004. Proceedings of the}, pages 8--pp. IEEE.
+
+\bibitem[Heeks, 2017]{heeks2017information}
+Heeks, R. (2017).
+\newblock {\em Information and communication technology for development (ICT4D)}.
+\newblock Routledge.
+
+\bibitem[HELTON, 2012]{helton2012bridging}
+HELTON, D.~A. (2012).
+\newblock Bridging the digital divide in developing nations through mobile phone transaction systems.
+\newblock {\em B> Quest}.
+
+\bibitem[Hennessy and Patterson, 2017]{hennessy2017computer}
+Hennessy, J.~L. and Patterson, D.~A. (2017).
+\newblock {\em Computer architecture: a quantitative approach}.
+\newblock Morgan kaufmann.
 
 \bibitem[Herzum, 2003]{herzum2003cutter}
 Herzum, P. (2003).
@@ -374,6 +429,11 @@ Nah, F. F.-H., Lau, J. L.-S., and Kuang, J. (2001).
 \newblock Critical factors for successful implementation of enterprise systems.
 \newblock {\em Business process management journal}, 7(3):285--296.
 
+\bibitem[Ojo, 2020]{ojo2020political}
+Ojo, T. (2020).
+\newblock Political economy of ict4d and africa.
+\newblock In {\em Handbook of communication for development and social change}, pages 1243--1255. Springer.
+
 \bibitem[O'Leary, 2000]{o2000enterprise}
 O'Leary, D.~E. (2000).
 \newblock {\em Enterprise resource planning systems: systems, life cycle, electronic commerce, and risk}.
@@ -433,6 +493,11 @@ Pople, H.~E. (1973).
 \newblock On the mechanization of abductive logic.
 \newblock In {\em IJCAI}, volume~73, pages 147--152. Citeseer.
 
+\bibitem[Porter’s, 1985]{porter1985value}
+Porter’s, V. C.~M. (1985).
+\newblock What is value chain.
+\newblock {\em E-Commer.}, pages 1--13.
+
 \bibitem[Potrac et~al., 2014]{potrac2014interpretivism}
 Potrac, P., Jones, R.~L., and Nelson, L. (2014).
 \newblock Interpretivism.
@@ -473,6 +538,11 @@ Ronchi, A.~M. (2009).
 \newblock {\em eCulture: cultural content in the digital age}.
 \newblock Springer Science \& Business Media.
 
+\bibitem[Ross et~al., 2006]{ross2006enterprise}
+Ross, J.~W., Weill, P., and Robertson, D. (2006).
+\newblock {\em Enterprise architecture as strategy: Creating a foundation for business execution}.
+\newblock Harvard business press.
+
 \bibitem[Ryan, 2018]{ryan2018introduction}
 Ryan, G. (2018).
 \newblock Introduction to positivism, interpretivism and critical theory.
@@ -497,6 +567,11 @@ Saunders, M., Lewis, P., and Thornhill, A. (2009).
 Sayer, R.~A. (1992).
 \newblock {\em Method in social science: A realist approach}.
 \newblock Psychology Press.
+
+\bibitem[Schein, 2010]{schein2010organizational}
+Schein, E.~H. (2010).
+\newblock {\em Organizational culture and leadership}, volume~2.
+\newblock John Wiley \& Sons.
 
 \bibitem[Sein et~al., 2011]{sein2011action}
 Sein, M.~K., Henfridsson, O., Purao, S., Rossi, M., and Lindgren, R. (2011).
@@ -574,6 +649,11 @@ Terminanto, A., Hidayat, R., and Hidayanto, A.~N. (2017).
 Tsai, B.-H. (2008).
 \newblock The impact of enterprise resource planning systems on the efficiency of taiwanese firms.
 \newblock In {\em 2008 IEEE Asia-Pacific Services Computing Conference}, pages 1441--1446. IEEE.
+
+\bibitem[Tschang, 2001]{tschang2001basic}
+Tschang, T. (2001).
+\newblock The basic characteristics of skills and organizational capabilities in the indian software industry.
+\newblock Technical report, ADBI Research Paper Series.
 
 \bibitem[Turley and Bieman, 1994]{turley1994identifying}
 Turley, R.~T. and Bieman, J.~M. (1994).

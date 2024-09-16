@@ -12,45 +12,45 @@ Warning--empty journal in o1998overview
 Warning--there's a number but no volume in susman2023assessment
 Warning--empty journal in team2002capability
 Warning--can't use both volume and number fields in terminanto2017implementation
-You've used 129 entries,
+You've used 145 entries,
             1935 wiz_defined-function locations,
-            1135 strings with 23157 characters,
-and the built_in function-call counts, 47721 in all, are:
-= -- 4754
-> -- 1592
-< -- 120
-+ -- 550
-- -- 506
-* -- 3759
-:= -- 8225
-add.period$ -- 388
-call.type$ -- 129
-change.case$ -- 873
-chr.to.int$ -- 129
-cite$ -- 138
-duplicate$ -- 2014
-empty$ -- 3534
-format.name$ -- 700
-if$ -- 9456
+            1205 strings with 25212 characters,
+and the built_in function-call counts, 53047 in all, are:
+= -- 5271
+> -- 1755
+< -- 136
++ -- 608
+- -- 556
+* -- 4141
+:= -- 9164
+add.period$ -- 437
+call.type$ -- 145
+change.case$ -- 969
+chr.to.int$ -- 145
+cite$ -- 154
+duplicate$ -- 2254
+empty$ -- 3942
+format.name$ -- 772
+if$ -- 10512
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 147
-newline$ -- 638
-num.names$ -- 387
-pop$ -- 839
+missing$ -- 171
+newline$ -- 718
+num.names$ -- 435
+pop$ -- 952
 preamble$ -- 1
-purify$ -- 897
+purify$ -- 1001
 quote$ -- 0
-skip$ -- 1546
+skip$ -- 1730
 stack$ -- 0
-substring$ -- 3294
-swap$ -- 289
-text.length$ -- 27
+substring$ -- 3616
+swap$ -- 321
+text.length$ -- 30
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 724
+type$ -- 802
 warning$ -- 9
-while$ -- 428
+while$ -- 472
 width$ -- 0
-write$ -- 1627
+write$ -- 1827
 (There were 9 warnings)
