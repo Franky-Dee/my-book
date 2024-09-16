@@ -90,6 +90,11 @@ Bibiano, L.~H., Marco-Sim{\'o}, J.~M., and Pastor, J.~A. (2014).
 \newblock An initial approach for improving crm systems implementation projects.
 \newblock In {\em 2014 9th Iberian Conference on Information Systems and Technologies (CISTI)}, pages 1--6. IEEE.
 
+\bibitem[Brooks and Bullet, 1987]{brooks1987essence}
+Brooks, F.~P. and Bullet, N.~S. (1987).
+\newblock Essence and accidents of software engineering.
+\newblock {\em IEEE computer}, 20(4):10--19.
+
 \bibitem[Bruce et~al., 2003]{bruce2003math}
 Bruce, K.~B., Drysdale, R. L.~S., Kelemen, C., and Tucker, A. (2003).
 \newblock Why math?
@@ -158,6 +163,11 @@ Eden, A.~H. (2007).
 Esteves, J. and Pastor, J. (2001).
 \newblock Enterprise resource planning systems research: an annotated bibliography.
 \newblock {\em Communications of the association for information systems}, 7(1):8.
+
+\bibitem[Fagerholm et~al., 2014]{fagerholm2014role}
+Fagerholm, F., Guinea, A.~S., M{\"u}nch, J., and Borenstein, J. (2014).
+\newblock The role of mentoring and project characteristics for onboarding in open source software projects.
+\newblock In {\em Proceedings of the 8th ACM/IEEE international symposium on empirical software engineering and measurement}, pages 1--10.
 
 \bibitem[Flick et~al., 2004]{flick2004qualitative}
 Flick, U., Von~Kardorff, E., and Steinke, I. (2004).
@@ -328,6 +338,11 @@ Mardiana, S. (2020).
 Mayer-Barber, K.~D. and Yan, B. (2017).
 \newblock Clash of the cytokine titans: counter-regulation of interleukin-1 and type i interferon-mediated inflammatory responses.
 \newblock {\em Cellular \& molecular immunology}, 14(1):22--35.
+
+\bibitem[McConnell, 1996]{mcconnell1996rapid}
+McConnell, S. (1996).
+\newblock {\em Rapid development: taming wild software schedules}.
+\newblock Pearson Education.
 
 \bibitem[McConnell, 2004]{mcconnell2004code}
 McConnell, S. (2004).
@@ -560,6 +575,11 @@ Tsai, B.-H. (2008).
 \newblock The impact of enterprise resource planning systems on the efficiency of taiwanese firms.
 \newblock In {\em 2008 IEEE Asia-Pacific Services Computing Conference}, pages 1441--1446. IEEE.
 
+\bibitem[Turley and Bieman, 1994]{turley1994identifying}
+Turley, R.~T. and Bieman, J.~M. (1994).
+\newblock Identifying essential competencies of software engineers.
+\newblock In {\em ACM Conference on computer science}, volume~10.
+
 \bibitem[U{\c{c}}akt{\"u}rk and Villard, 2013]{uccakturk2013effects}
 U{\c{c}}akt{\"u}rk, A. and Villard, M. (2013).
 \newblock The effects of management information and erp systems on strategic knowledge management and decision-making.
@@ -580,11 +600,6 @@ Weiss, M.~A. (1998).
 \newblock Data structures and problem solving using java.
 \newblock {\em ACM SIGACT News}, 29(2):42--49.
 
-\bibitem[Wetherbe et~al., 2006]{wetherbe2006information}
-Wetherbe, J.~C., McLean, E.~R., Leidner, D.~E., and Turban, E. (2006).
-\newblock {\em Information technology for management: Transforming organizations in the digital economy}.
-\newblock J. Wiley.
-
 \bibitem[Wikgren, 2005]{wikgren2005critical}
 Wikgren, M. (2005).
 \newblock Critical realism as a philosophy and social theory in information science?
@@ -604,11 +619,6 @@ Wu, C.-C., Dale, N.~B., and Bethel, L.~J. (1998).
 Xu, Y., Rahmati, N., and Lee, V.~C. (2008).
 \newblock A review of literature on enterprise resource planning systems.
 \newblock In {\em 2008 International Conference on Service Systems and Service Management}, pages 1--6. IEEE.
-
-\bibitem[Yusuf et~al., 2004]{yusuf2004enterprise}
-Yusuf, Y., Gunasekaran, A., and Abthorpe, M.~S. (2004).
-\newblock Enterprise information systems project implementation:: A case study of erp in rolls-royce.
-\newblock {\em International journal of production economics}, 87(3):251--266.
 
 \bibitem[Zhang et~al., 2003]{zhang2003critical}
 Zhang, L., Lee, M.~K., Zhang, Z., and Banerjee, P. (2003).
